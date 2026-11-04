@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Illustration of a university campus">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9E1CF"/><stop offset="1" stop-color="#FAF7F0"/></linearGradient>
+    <linearGradient id="bld" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2D3B5E"/><stop offset="1" stop-color="#1F2A44"/></linearGradient>
+  </defs>
+  <rect width="640" height="380" rx="20" fill="url(#sky)"/>
+  <circle cx="520" cy="80" r="42" fill="#B08D57" opacity=".35"/>
+  <circle cx="520" cy="80" r="26" fill="#B08D57" opacity=".55"/>
+  <path d="M0 300 Q160 250 320 290 T640 270 V380 H0Z" fill="#D9CFB8"/>
+  <path d="M0 330 Q200 290 360 320 T640 310 V380 H0Z" fill="#C9BDA3"/>
+  <!-- main hall -->
+  <rect x="190" y="170" width="260" height="140" fill="url(#bld)"/>
+  <polygon points="170,172 320,98 470,172" fill="#1F2A44"/>
+  <polygon points="320,118 292,160 348,160" fill="#FAF7F0" opacity=".9"/>
+  <rect x="300" y="60" width="40" height="56" fill="#2D3B5E"/>
+  <polygon points="294,62 320,34 346,62" fill="#B08D57"/>
+  <circle cx="320" cy="88" r="10" fill="#FAF7F0"/>
+  <g fill="#FAF7F0" opacity=".9">
+    <rect x="212" y="196" width="26" height="40" rx="13"/><rect x="258" y="196" width="26" height="40" rx="13"/>
+    <rect x="356" y="196" width="26" height="40" rx="13"/><rect x="402" y="196" width="26" height="40" rx="13"/>
+  </g>
+  <rect x="296" y="236" width="48" height="74" rx="24" fill="#B08D57"/>
+  <!-- steps -->
+  <rect x="170" y="310" width="300" height="10" fill="#B9AD93"/><rect x="150" y="320" width="340" height="10" fill="#A99C80"/>
+  <!-- side blocks -->
+  <rect x="60" y="226" width="110" height="84" fill="#2D3B5E"/><rect x="470" y="226" width="110" height="84" fill="#2D3B5E"/>
+  <g fill="#FAF7F0" opacity=".85"><rect x="78" y="246" width="22" height="22" rx="3"/><rect x="118" y="246" width="22" height="22" rx="3"/><rect x="490" y="246" width="22" height="22" rx="3"/><rect x="530" y="246" width="22" height="22" rx="3"/></g>
+  <!-- trees -->
+  <g><rect x="34" y="262" width="8" height="48" fill="#7A5C2E"/><circle cx="38" cy="250" r="30" fill="#5C7A5A"/><circle cx="58" cy="268" r="20" fill="#6E8C68"/></g>
+  <g><rect x="598" y="262" width="8" height="48" fill="#7A5C2E"/><circle cx="602" cy="250" r="30" fill="#5C7A5A"/><circle cx="582" cy="268" r="20" fill="#6E8C68"/></g>
+  <!-- grad cap -->
+  <g transform="translate(88 70) rotate(-12)"><polygon points="0,20 40,2 80,20 40,38" fill="#1F2A44"/><path d="M16 28 v18 q24 14 48 0 v-18 l-24 11z" fill="#2D3B5E"/><line x1="80" y1="20" x2="80" y2="48" stroke="#B08D57" stroke-width="3"/><circle cx="80" cy="52" r="5" fill="#B08D57"/></g>
+</svg>

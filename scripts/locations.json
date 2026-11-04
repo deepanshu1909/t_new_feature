@@ -1,0 +1,20 @@
+{
+ "_readme": "slug -> [city, state/region]. Hand-curated from each college's official site / address. null city = campuses in several cities.",
+ "aidtm": ["Gandhinagar", "Gujarat"], "ahmd-uni": ["Ahmedabad", "Gujarat"], "alliance": ["Bangalore", "Karnataka"],
+ "amity-noida": ["Noida", "Uttar Pradesh"], "amity-university-dubai": ["Dubai", "UAE"], "asian-business-school-abs": ["Noida", "Uttar Pradesh"],
+ "asian-law-college-alc": ["Noida", "Uttar Pradesh"], "atlas": ["Mumbai", "Maharashtra"], "bits-pilani-dubai": ["Dubai", "UAE"],
+ "chitkara-university-cu-patiala": ["Patiala", "Punjab"], "christ-university-bangalore": ["Bangalore", "Karnataka"],
+ "east-point-group": ["Bangalore", "Karnataka"], "fergusson-college-pune": ["Pune", "Maharashtra"], "frankfinn": [null, "Pan-India"],
+ "gibs": ["Bangalore", "Karnataka"], "graphic-era-university-geu": ["Dehradun", "Uttarakhand"], "gsfc-university-vadodara": ["Vadodara", "Gujarat"],
+ "ibi": ["Greater Noida", "Uttar Pradesh"], "imsghaz": ["Ghaziabad", "Uttar Pradesh"], "isme": ["Bangalore", "Karnataka"],
+ "ishant-law": ["Greater Noida", "Uttar Pradesh"], "itm": ["Navi Mumbai", "Maharashtra"], "jagsom": ["Bangalore", "Karnataka"],
+ "jain-university": ["Bangalore", "Karnataka"], "jdift": [null, "Pan-India"], "kj-somaiya-institute": ["Mumbai", "Maharashtra"],
+ "kcc-institute-of-technology": ["Greater Noida", "Uttar Pradesh"], "lbsim": ["New Delhi", "Delhi"], "maharaja-sayajirao-university": ["Vadodara", "Gujarat"],
+ "mastersunion": ["Gurgaon", "Haryana"], "mdi-gurgaon": ["Gurgaon", "Haryana"], "mica": ["Ahmedabad", "Gujarat"], "new-horizon": ["Bangalore", "Karnataka"],
+ "nift-bangalore": ["Bangalore", "Karnataka"], "nift-bhopal": ["Bhopal", "Madhya Pradesh"], "nift-chennai": ["Chennai", "Tamil Nadu"],
+ "nift-gandhi-nagar": ["Gandhinagar", "Gujarat"], "nift-hyderabad": ["Hyderabad", "Telangana"], "nift-kolkata": ["Kolkata", "West Bengal"],
+ "nift-navi-mumbai": ["Navi Mumbai", "Maharashtra"], "nift-new-delhi": ["New Delhi", "Delhi"], "nift-patna": ["Patna", "Bihar"],
+ "nirma-university-ahmedabad": ["Ahmedabad", "Gujarat"], "nmims": ["Mumbai", "Maharashtra"], "nsb": ["Bangalore", "Karnataka"],
+ "op-jindal-global-university": ["Sonipat", "Haryana"], "spjimr": ["Mumbai", "Maharashtra"], "symbiosis-institute-of-business": ["Pune", "Maharashtra"],
+ "symbiosis-institute-of-design": ["Pune", "Maharashtra"], "symbiosis-law-school-sls": ["Pune", "Maharashtra"], "vivekananda-global-university": ["Jaipur", "Rajasthan"]
+}

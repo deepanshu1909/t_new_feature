@@ -1,0 +1,7 @@
+# private scraping caches, lead logs and generated fixtures never go to GitHub
+_private/
+scripts/fixture/
+.vercel/
+node_modules/
+.DS_Store
+*.log

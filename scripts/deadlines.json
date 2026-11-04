@@ -1,0 +1,10 @@
+{
+ "_readme": "Upcoming application deadlines shown in the marquee. Only dates that were confirmed (or marked tentative) from an official or news source on the 'checked' date. Edit freely: slugs = which entries get it. Past dates are hidden automatically.",
+ "items": [
+  { "slugs": ["nift-registration", "nift-bangalore", "nift-bhopal", "nift-chennai", "nift-gandhi-nagar", "nift-hyderabad", "nift-kolkata", "nift-navi-mumbai", "nift-new-delhi", "nift-patna"], "label": "NIFT 2027 entrance (UG & PG): apply without late fee", "date": "2026-11-16", "tentative": false, "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.", "source": "https://exams.nta.nic.in/niftee/", "checked": "2026-11-04" },
+  { "slugs": ["christ-university-bangalore"], "label": "UG & PG applications (entrance-test programmes)", "date": "2026-11-25", "tentative": false, "source": "https://christuniversity.in/admission/", "checked": "2026-11-04" },
+  { "slugs": ["christ-university-bangalore"], "label": "MBA applications (Session I)", "date": "2027-01-24", "tentative": false, "source": "https://christuniversity.in/admission/2027-mba-admission-process", "checked": "2026-11-04" },
+  { "slugs": ["spjimr"], "label": "PGDM / PGDM (BM) 2027-29 last date", "date": "2026-11-27", "tentative": false, "source": "https://www.spjimr.org/", "checked": "2026-11-04" },
+  { "slugs": ["viteee-registration", "viteee-slot-booking"], "label": "VITEEE 2027 application last date", "date": "2027-03-31", "tentative": true, "note": "Dates are tentative until VIT confirms.", "source": "https://viteee.vit.ac.in/", "checked": "2026-11-04" }
+ ]
+}

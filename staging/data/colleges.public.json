@@ -1,0 +1,5418 @@
+[
+ {
+  "slug": "aidtm",
+  "name": "Adani Institute of Digital Technology Management (AIDTM)",
+  "shortName": "AIDTM",
+  "city": "Gandhinagar",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/aidtm/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Inexpensive green power in combination with digital technologies - that include sensors and internet of things, artificial intelligence and machine learning, 5G and cloud infrastructure - will all converge empowering India to economically micro size several processes and convert every process into a service.",
+  "courses": [
+   "PGDM - Big Data Analytics",
+   "PGDM - AI and Data Science"
+  ],
+  "stats": [
+   {
+    "label": "Highest CTC",
+    "value": "20 LPA"
+   }
+  ],
+  "highlights": [
+   "AIDTM was established in 2020, with the core commitment of creating continuously employable professionals in the field of Big Data Analytics and AI &Data Science.",
+   "He holds BBA with finance degree and fond of candid photography. He worked in branding, product launching of ceramic industry and creative work with MNCs, FMCG industry, educational and printing industry.",
+   "To develop/ create an international Institute to ensure that data science and digital technology are for everyone."
+  ],
+  "website": "https://aidtm.ac.in/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2020"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "AICTE"
+   }
+  ],
+  "gallery": [
+   "assets/photos/aidtm/1.jpg"
+  ],
+  "sources": {
+   "website": "https://aidtm.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India"
+ },
+ {
+  "slug": "ahmd-uni",
+  "name": "Ahmedabad University",
+  "shortName": "Ahmedabad University",
+  "city": "Ahmedabad",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/ahmd-uni/1.jpg",
+  "exams": [
+   "CUET",
+   "CAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.",
+  "courses": [
+   "B.Tech",
+   "BBA",
+   "B.Sc",
+   "BA",
+   "B.Com",
+   "MBA",
+   "Master of Management Studies in Heritage Management",
+   "M.Sc",
+   "Master of Science in Quantitative Finance",
+   "M.Tech",
+   "Master of Technology in Computer Science and Engineering",
+   "Master of Technology in Microelectronics and Semiconductors",
+   "PhD at School of Engineering and Applied Science",
+   "PhD at School of Arts and Sciences",
+   "PhD at Amrut Mody School of Management",
+   "PhD at Bagchi School of Public Health"
+  ],
+  "programs": [
+   {
+    "course": "B.Tech (4 Courses)",
+    "fees": "₹15 Lakhs",
+    "eligibility": "10+2 + JEE (Main)",
+    "dates": null,
+    "feeMin": 1500000,
+    "feeMax": 1500000
+   },
+   {
+    "course": "BBA {Hons.} (9 Courses)",
+    "fees": "₹18.4 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1839999.9999999998,
+    "feeMax": 1839999.9999999998
+   },
+   {
+    "course": "Master of Business Administration [MBA]",
+    "fees": "₹11.4 Lakhs",
+    "eligibility": "Graduation + CAT",
+    "dates": null,
+    "feeMin": 1140000,
+    "feeMax": 1140000
+   },
+   {
+    "course": "BA {Hons.} (5 Courses)",
+    "fees": "₹19.8 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1980000,
+    "feeMax": 1980000
+   },
+   {
+    "course": "Bachelor of Commerce [B.Com] {Hons.} (Accounting)",
+    "fees": "₹19.8 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1980000,
+    "feeMax": 1980000
+   },
+   {
+    "course": "Master of Arts [MA] (Economics)",
+    "fees": "₹5 Lakhs",
+    "eligibility": "Graduation with 50% + CUET PG",
+    "dates": null,
+    "feeMin": 500000,
+    "feeMax": 500000
+   },
+   {
+    "course": "B.Com (Hons.)",
+    "fees": "₹19.8 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1980000,
+    "feeMax": 1980000
+   },
+   {
+    "course": "Ph.D (18 Courses)",
+    "fees": "₹30,000",
+    "eligibility": "Post Graduation with 55%",
+    "dates": null,
+    "feeMin": 30000,
+    "feeMax": 30000
+   },
+   {
+    "course": "Bachelor of Science [B.Sc] + Master of Science [M.Sc] (Life Sciences)",
+    "fees": "₹25.25 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 2525000,
+    "feeMax": 2525000
+   },
+   {
+    "course": "M.Tech (2 Courses)",
+    "fees": "₹3.9 Lakhs",
+    "eligibility": "Graduation",
+    "dates": "—",
+    "feeMin": 390000,
+    "feeMax": 390000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Students from India & abroad",
+    "value": "3500+"
+   },
+   {
+    "label": "Highest Package",
+    "value": "18.33 LPA"
+   },
+   {
+    "label": "Accredited",
+    "value": "NAAC 'A'"
+   }
+  ],
+  "highlights": [
+   "To prepare leaders of outstanding character who will contribute significantly to their fields of study and practice",
+   "To actively advance research and intellectual enterprise at the University and in the society",
+   "To promote independent mindedness and diversity across all dimensions of the University",
+   "To generate knowledge that provides a context of learning from and contribution to India and the world"
+  ],
+  "website": "https://ahduni.edu.in/",
+  "credits": [
+   {
+    "author": "Dhruvdhakan",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CEPT_Campus,_entrance_area_near_sagra_basement.jpg"
+   },
+   {
+    "author": "Jignesh Gohel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lakulish_Yoga_University_Campus_Ahmedabad_-_India.JPG"
+   },
+   {
+    "author": "Jignesh Gohel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lakulish_Yoga_University_Campus_Ahmedabad_India_01.JPG"
+   }
+  ],
+  "gallery": [
+   "assets/photos/ahmd-uni/1.jpg",
+   "assets/photos/ahmd-uni/2.jpg",
+   "assets/photos/ahmd-uni/3.jpg"
+  ],
+  "sources": {
+   "website": "https://ahduni.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India",
+  "feeMin": 30000,
+  "feeMax": 2525000
+ },
+ {
+  "slug": "alliance",
+  "name": "Alliance University Bangalore",
+  "shortName": "AUB",
+  "city": "Bangalore",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/alliance/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "What began as a pioneering School of Business in 1997 evolved into South India’s first private university in 2010. Today, Alliance University is recognised as one of India’s leading multidisciplinary institutions, driven by academic excellence, industry relevance, and a strong global outlook.",
+  "courses": [
+   "B.Tech",
+   "BBA",
+   "B.Des",
+   "LLB",
+   "BBALLB Hons.",
+   "MBA",
+   "M.Sc Data Science",
+   "LLM",
+   "Ph.D in Law",
+   "Ph.D in Science",
+   "Ph.D in Liberal Arts",
+   "Ph.D in Engineering",
+   "Ph.D in Computer Science & Engineering",
+   "Ph.D in Commerce",
+   "Ph.D in Engineering & Technology",
+   "Ph.D in Management"
+  ],
+  "website": "https://www.alliance.edu.in/",
+  "highlights": [
+   "Associated Campuses Alliance Global Business Campus",
+   "A flagship pillar of Alliance University, the Alliance School of Business is among India’s leading B-schools, consistently top-ranked and the first in the country to be accredited by the IACBE, USA.",
+   "As a constituent college of Alliance University, Alliance Ascent College offers a high-quality academic environment supported by experienced faculty and a strong foundation in applied research.",
+   "In collaboration with MBA ESG, Europe, the Alliance Global Business School delivers globally benchmarked management education, offering specialised MBA and BBA programmes with strong international exposure.",
+   "AU-QUASAR, the premier Deep-tech school of Alliance University in Bengaluru’s Electronic City, is an integrated ecosystem that bridges academic brilliance with industry-shifting ventures.",
+   "Grounded in experiential learning and rigorous scholarship, the Alliance School of Law prepares future-ready legal professionals through strong engagement with practice, research, and policy.",
+   "A dedicated research hub advancing evidence-based inquiry and thought leadership across public policy, sustainability, and ESG to drive inclusive, future-focused change.",
+   "Established in partnership with Strate School of Design, Paris, this school delivers globally benchmarked, industry-driven design education with strong international exposure."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1997"
+   },
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, AICTE, UGC, AACSB, NIRF, BCI, IACBE"
+   },
+   {
+    "label": "Campus size",
+    "value": "60 acres"
+   },
+   {
+    "label": "NIRF rank (as stated)",
+    "value": "#151"
+   }
+  ],
+  "gallery": [
+   "assets/photos/alliance/1.jpg",
+   "assets/photos/alliance/2.jpg",
+   "assets/photos/alliance/3.jpg"
+  ],
+  "sources": {
+   "website": "https://www.alliance.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "amity-university-dubai",
+  "name": "Amity University Dubai",
+  "shortName": "Amity University Dubai",
+  "city": "Dubai",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Amity University Dubai’s School of EAID hosted the Emirati Student Leadership Forum, where students exchanged leadership stories and interacted with industry professionals. With real-world insights and inspiring discussions led by Chief Guest Mr. Ahmed Alhammadi, the forum encouraged students to grow as confident, future-ready leaders.",
+  "courses": [
+   "B.Tech",
+   "M.Tech",
+   "MBA"
+  ],
+  "website": "https://www.amityuniversity.ae/",
+  "highlights": [
+   "Amity University Dubai is part of Amity Education Group, founded over 30 years ago with over 200,000 students, 85,000 alumni and 6,000 teaching faculty.",
+   "The university has a strong cohort of highly-qualified academic staff who are recognised as leaders in their fields of expertise and have strong industry and corporate ties.",
+   "Amity University Dubai is home to more than 2,500 students from over 70 nationalities with over 85,000 alumni worldwide.",
+   "Assurance to students that a university meets international education standards",
+   "ACCA (*Accreditation valid until 31st December 2028.)",
+   "CMA (*Accreditation valid until 12th September 2024.)",
+   "CILT (*Accreditation valid until 30th September 2028.)",
+   "CAA accreditation for degrees is an important factor for future job seekers, with benefits including:"
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2011"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "AACSB, IACBE"
+   },
+   {
+    "label": "Students",
+    "value": "200,000"
+   },
+   {
+    "label": "Alumni",
+    "value": "85,000"
+   },
+   {
+    "label": "Programmes",
+    "value": "25"
+   }
+  ],
+  "sources": {
+   "website": "https://www.amityuniversity.ae/",
+   "updated": "2026-11-04"
+  },
+  "state": "UAE",
+  "country": "UAE"
+ },
+ {
+  "slug": "amity-noida",
+  "name": "Amity University Noida",
+  "shortName": "Amity University Noida",
+  "city": "Noida",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/amity-noida/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Amity is the leading education group of India with over 50000 students studying across 700 acres of hi-tech campus. At Amity we are passionate about grooming leaders who are not only thorough professionals but also good human beings with values and sanskars. At Amity, we benchmark only against the best institutions around the world.",
+  "courses": [
+   "Program",
+   "B.Com",
+   "B.Arch",
+   "B.Des",
+   "B.Ed",
+   "B.Sc",
+   "B.Pharm",
+   "B.Sc (Medicine)",
+   "BA LLB",
+   "BA",
+   "Bachelor of Physiotherapy(BPT)",
+   "BBA/BBM",
+   "BCA",
+   "BE/B.Tech",
+   "BFA",
+   "BHM",
+   "Diploma in Medical",
+   "Graduate Certificate in Education",
+   "Graduate Diploma in Education",
+   "LLB",
+   "LLM",
+   "M.Arch",
+   "M.Com",
+   "M.Des",
+   "M.Ed",
+   "M.Pharm",
+   "M.Phil/Ph.D in Medicine",
+   "M.Planning",
+   "M.Sc",
+   "MA",
+   "Master of Physiotherapy(MPT)",
+   "MBA/PGDM",
+   "MCA",
+   "ME/M.Tech",
+   "MHA",
+   "PG Diploma in Arts",
+   "PG Diploma in Management"
+  ],
+  "website": "https://noida.amity.edu/",
+  "credits": [
+   {
+    "author": "आशीष भटनागर at hi.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Amity_Univ_NOIDA3.jpg"
+   },
+   {
+    "author": "Anuvrat Parashar",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amity_University_E_Block.JPG"
+   },
+   {
+    "author": "Anuvrat Parashar",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amity_University_J_Block.JPG"
+   }
+  ],
+  "gallery": [
+   "assets/photos/amity-noida/1.jpg",
+   "assets/photos/amity-noida/2.jpg",
+   "assets/photos/amity-noida/3.jpg"
+  ],
+  "sources": {
+   "website": "https://noida.amity.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India"
+ },
+ {
+  "slug": "asian-business-school-abs",
+  "name": "Asian Business School (ABS) Noida",
+  "shortName": "ABSN",
+  "city": "Noida",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT",
+   "GMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Asian Business School is an innovative centre of academic excellence Approved by AICTE and is one of the top colleges for PGDM / MBA in India. The flagship PGDM Degree program offered here is accredited by National Board of Accreditation (NBA) and granted equivalence to MBA Degree of an Indian University by Association of Indian Universities (AIU).",
+  "courses": [
+   "PGDM (Equivalent to MBA) 116 Views"
+  ],
+  "programs": [
+   {
+    "course": "PGDM (Equivalent to MBA)",
+    "fees": "₹9.55 Lakhs",
+    "eligibility": "Grad- 50%+CAT/MAT/CMAT/GMAT",
+    "dates": null,
+    "feeMin": 955000.0000000001,
+    "feeMax": 955000.0000000001
+   }
+  ],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "36.64 LPA"
+   }
+  ],
+  "highlights": [
+   "Executive Diploma in International Business from Chelsea Business School",
+   "Our programmes are purposeful and professionally oriented to meet industry standards on all fronts. The core advantage of studying at ABS is to get an internationally recognized qualification…",
+   "Our Corporate Resource Cell has well established system of ensuring a smooth transition of students from className room to work place.",
+   "Oxford/London Fully Paid Study Trip UK"
+  ],
+  "website": "https://abs.edu.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NBA, AICTE"
+   }
+  ],
+  "sources": {
+   "website": "https://abs.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "feeMin": 955000.0000000001,
+  "feeMax": 955000.0000000001
+ },
+ {
+  "slug": "asian-law-college-alc",
+  "name": "Asian Law College (ALC) Noida",
+  "shortName": "ALCN",
+  "city": "Noida",
+  "category": "Law",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/asian-law-college-alc/1.jpg",
+  "exams": [
+   "CLAT",
+   "LSAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Asian Law College stands for mutualistic relationships of learners coming from different parts but forming one world. Asian Law College aims at carrying forward the legacy of the rich educational and intellectual heritage of Asian Education Group, which is proud to have inscribed names of outstanding personalities on its scroll since its inception.",
+  "courses": [
+   "BA LLB",
+   "LLB",
+   "B.Com.LL.B."
+  ],
+  "stats": [
+   {
+    "label": "Alumni Network",
+    "value": "18,000+"
+   },
+   {
+    "label": "Recruiters",
+    "value": "400+"
+   }
+  ],
+  "highlights": [
+   "International Law and Legal Framework (In collaboration with University of Cape Town, South Africa)",
+   "National Assessment and Accreditation Council (NAAC)",
+   "Listed among top law colleges by Forbes India.",
+   "Empowering Legal Minds: SCC Online Legal Research Workshop at Asian Law College",
+   "International Conference: Recent Trends & Advancements in Corporate Law and Governance",
+   "Asian Law College (ALC) honors its alumni : Nidasha Ali A.N.",
+   "International Seminar on \"Artificial Intelligence and Right to Privacy\"",
+   "Game of Carrom elicits some top performances from students at AEG’s 8th Annual Inter-College Sports Festival, ATHLEEMA 2020!"
+  ],
+  "website": "https://alc.edu.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, UGC, BCI"
+   }
+  ],
+  "gallery": [
+   "assets/photos/asian-law-college-alc/1.jpg",
+   "assets/photos/asian-law-college-alc/2.jpg",
+   "assets/photos/asian-law-college-alc/3.jpg"
+  ],
+  "sources": {
+   "website": "https://alc.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India"
+ },
+ {
+  "slug": "atlas",
+  "name": "Atlas Skilltech University Mumbai",
+  "shortName": "ASUM",
+  "city": "Mumbai",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "ATLAS SkillTech University has received several prestigious national recognitions for its excellence in education, industry integration and innovation. In the Times Now B-School Survey 2026, ATLAS ISME was ranked #5 among Private B-Schools in India, #5 in the West Zone (including IIMs and IITs) and #14 Overall Nationally (including IIMs and IITs). The university was also ranked #2 Private Engineering & Technology University in Maharashtra by EducationWorld 2026.",
+  "courses": [
+   "BBA",
+   "MBA",
+   "B.Tech",
+   "BBA",
+   "B.Des",
+   "BBA LLB",
+   "B.Sc Finance"
+  ],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "25 LPA"
+   }
+  ],
+  "highlights": [
+   "B.Des – Fashion Design, Interior Design, Communication Design, Product Design",
+   "BBA – Management & Entrepreneurship, Marketing, Finance, International Business, Digital Marketing",
+   "B.Tech – Computer Science, Artificial Intelligence, Data Science, Cybersecurity",
+   "MBA – Innovation, Entrepreneurship, Marketing, Finance, Business Analytics",
+   "M.Des – Strategic Design Management, Fashion & Luxury Design, Communication Design",
+   "To be a centre of excellence in education, innovation, and entrepreneurship — nurturing leaders who create sustainable growth and positive impact worldwide.",
+   "To provide a collaborative and value-based learning environment for students from diverse backgrounds.",
+   "To develop management professionals with a global mindset, leadership qualities, and entrepreneurial skills."
+  ],
+  "website": "https://www.atlasuniversity.edu.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, UGC"
+   }
+  ],
+  "sources": {
+   "website": "https://www.atlasuniversity.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ {
+  "slug": "bits-pilani-dubai",
+  "name": "BITS Pilani Dubai",
+  "shortName": "BITS Pilani Dubai",
+  "city": "Dubai",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/bits-pilani-dubai/1.jpg",
+  "exams": [
+   "CAT",
+   "GMAT",
+   "GRE",
+   "BITSAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Welcome to BITS Pilani Dubai Campus, a premier engineering institute in the UAE and the only international campus of BITS Pilani. Established in 2000 , we have established ourselves as a leader in providing high-quality technical education to students in the UAE and the surrounding region. While staying true to the core values of BITS Pilani, we have adapted to the local environment and gained a reputation as one of the region's top educational institutions.",
+  "courses": [
+   "BE",
+   "ME",
+   "MBA",
+   "B.Sc",
+   "M.Sc",
+   "B.Com",
+   "BCA",
+   "MCA",
+   "BA",
+   "MA",
+   "Ph.D"
+  ],
+  "website": "https://www.bits-pilani.ac.in/dubai",
+  "highlights": [
+   "ABOUT WILP PLACEMENTS BITSAT Practice School Career Internationalization CONTACT",
+   "International Conference on Sustainable Engineering and Emerging Technologies (SE2T 2027) Dubai",
+   "Convocation 2025 BITS Pilani, Dubai Campus Dubai",
+   "BITS Pilani invites applications to register for PhD First Semester, 2023–2024. 11 May, 2023",
+   "BPDC's Wall Street Club Secures the Top Position 16 December, 2022",
+   "AUTO Ltd. SCHOLARSHIP Announcement 24 November, 2022",
+   "Dubai Campus International Conference on Sustainable Engineering and Emerging Technologies (SE2T 2027) Dubai",
+   "Network of alumni in globally reputed companies"
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2000"
+   },
+   {
+    "label": "Campus size",
+    "value": "328 acres"
+   },
+   {
+    "label": "Students",
+    "value": "675"
+   }
+  ],
+  "gallery": [
+   "assets/photos/bits-pilani-dubai/1.jpg",
+   "assets/photos/bits-pilani-dubai/2.jpg",
+   "assets/photos/bits-pilani-dubai/3.jpg"
+  ],
+  "sources": {
+   "website": "https://www.bits-pilani.ac.in/dubai",
+   "updated": "2026-11-04"
+  },
+  "state": "UAE",
+  "country": "UAE"
+ },
+ {
+  "slug": "chitkara-university-cu-patiala",
+  "name": "Chitkara University Patiala",
+  "shortName": "CUP",
+  "city": "Patiala",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/chitkara-university-cu-patiala/1.jpg",
+  "exams": [
+   "JEE Main",
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT",
+   "NMAT",
+   "UCEED"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Chitkara University, ranked No. 1* in India, is recognised as one of the Best** colleges in the country across Engineering, Management and key disciplines. Situated just 30 km from Chandigarh and consistently securing top positions in national and global rankings, we offer industry-led programs, expert faculty, modern facilities and access to 2,000+ recruiters, preparing you for successful careers in India and abroad.",
+  "courses": [
+   "BE",
+   "MBA",
+   "BBA",
+   "B.Sc",
+   "B.Sc (Nursing)",
+   "BA LLB",
+   "MCA",
+   "M.Pharm",
+   "D Pharm",
+   "B.Des",
+   "B.P.T"
+  ],
+  "programs": [
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹3.3 Lakhs - 9 Lakhs",
+    "eligibility": "Graduation+ CAT",
+    "dates": null,
+    "feeMin": 330000,
+    "feeMax": 900000
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹6.4 Lakhs",
+    "eligibility": "10+2 with 50%",
+    "dates": null,
+    "feeMin": 640000,
+    "feeMax": 640000
+   },
+   {
+    "course": "BE",
+    "fees": "₹8.4 Lakhs - 18.5 Lakhs",
+    "eligibility": "10+2 + JEE Mains",
+    "dates": null,
+    "feeMin": 840000,
+    "feeMax": 1850000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹4.48 Lakhs",
+    "eligibility": "10+ 2 with Interview",
+    "dates": null,
+    "feeMin": 448000.00000000006,
+    "feeMax": 448000.00000000006
+   },
+   {
+    "course": "BA",
+    "fees": "₹10 Lakhs",
+    "eligibility": "10+2 with 50%",
+    "dates": null,
+    "feeMin": 1000000,
+    "feeMax": 1000000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹3.8 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 380000,
+    "feeMax": 380000
+   },
+   {
+    "course": "M.Pharm",
+    "fees": "₹4 Lakhs",
+    "eligibility": "B.Pharm + GPAT",
+    "dates": null,
+    "feeMin": 400000,
+    "feeMax": 400000
+   },
+   {
+    "course": "B.P.T",
+    "fees": "₹5.6 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 560000,
+    "feeMax": 560000
+   },
+   {
+    "course": "B.Des",
+    "fees": "₹12 Lakhs",
+    "eligibility": "10+2 with UCEED",
+    "dates": null,
+    "feeMin": 1200000,
+    "feeMax": 1200000
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹3.38 Lakhs - 50.6 Lakhs",
+    "eligibility": "10+2 with JEE NCHMCT",
+    "dates": null,
+    "feeMin": 338000,
+    "feeMax": 5060000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "18.33 LPA"
+   },
+   {
+    "label": "Students",
+    "value": "3500+"
+   }
+  ],
+  "website": "https://www.chitkara.edu.in/",
+  "highlights": [
+   "Featured News Apple Park Chitkara University students among Top Young Innovators at Apple Park Published on — June 24, 2026",
+   "Industry partnerships Chitkara University signs MoU with Welzo Research & Development Published on — October 9, 2026",
+   "Industry partnerships Chitkara Law School signs MoU with Law Senate Published on — October 6, 2026",
+   "+ Startups Connected with Investors & Industry",
+   "Academic Excellence Chitkara University awarded Four-Star Ratings under Institution’s Innovation Council Rankings Published on — October 16, 2026",
+   "From global classrooms to international campuses, students gain exposure and insight through mobility programs, partnerships and learning experiences suited for global relevance and impact.",
+   "At Chitkara University, research is a way of life, backed by 107+ Cr funding, cutting-edge facilities and global collaborations that empower students to solve real world challenges.",
+   "Focused hubs of innovation integrating academic rigour, industry engagement and applied research, enabling students to develop insight, capability and solutions for a rapidly evolving world."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2002"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, UGC, NIRF, BCI"
+   },
+   {
+    "label": "Recruiters",
+    "value": "2,000+"
+   }
+  ],
+  "credits": [
+   {
+    "author": "ChitkaraU",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CU_pic_2.jpg"
+   },
+   {
+    "author": "Hsingh12",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chitkara_University_Himachal_Pradesh.jpg"
+   },
+   {
+    "author": "Sahil Dhiman",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chitkara_University,_Punjab_main_internal_road.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/chitkara-university-cu-patiala/1.jpg",
+   "assets/photos/chitkara-university-cu-patiala/2.jpg",
+   "assets/photos/chitkara-university-cu-patiala/3.jpg"
+  ],
+  "sources": {
+   "website": "https://www.chitkara.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Punjab",
+  "country": "India",
+  "feeMin": 330000,
+  "feeMax": 5060000
+ },
+ {
+  "slug": "christ-university-bangalore",
+  "name": "Christ University Bangalore",
+  "shortName": "CUB",
+  "city": "Bangalore",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/christ-university-bangalore/1.jpg",
+  "exams": [
+   "CUET",
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT",
+   "GMAT",
+   "GRE",
+   "ATMA"
+  ],
+  "fees": null,
+  "deadline": "25 Nov 2026",
+  "about": "CHRIST University offers rigorous programs, valuable resources, and countless opportunities that will enable you to pursue your desired course of study. Christ University, Bangalore, is a reputed private university in South India with NAAC A+ accreditation, multidisciplinary programs, and vibrant campus culture. The university was established as ‘Christ College’ in 1969. Further, Christ University has also been ranked 96th in the overall category by NIRF 2025. Christ University is popular among students for its BCA, BBA, BSc, and MBA programs. Admissions for 2026 are open, and selections are based on the Christ University Entrance Test (CUET), followed by Skill Assessment (SA), Micro Presentation (MP), and Personal Interview (PI). MBA admissions…",
+  "courses": [
+   "B.Sc",
+   "M.Sc",
+   "B.Com",
+   "BCA",
+   "MCA",
+   "MBA/PGDM",
+   "BBA/BMS",
+   "BA",
+   "MA",
+   "Computer and Data Science",
+   "Commerce",
+   "Psychology",
+   "Management Studies",
+   "Science",
+   "Engineering",
+   "Law"
+  ],
+  "programs": [
+   {
+    "course": "B.Sc",
+    "fees": "₹2.57 Lakhs - 8.48 Lakhs",
+    "eligibility": "10+2+Entrance Test",
+    "dates": null,
+    "feeMin": 256999.99999999997,
+    "feeMax": 848000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹40,000 - 5.28 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": null,
+    "feeMin": 40000,
+    "feeMax": 528000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹3.2 Lakhs - 11.69 Lakhs",
+    "eligibility": "10+2 +Entrance Test",
+    "dates": null,
+    "feeMin": 320000,
+    "feeMax": 1169000
+   },
+   {
+    "course": "BCA",
+    "fees": "₹5.9 Lakhs",
+    "eligibility": "10+2 +Entrance Test",
+    "dates": null,
+    "feeMin": 590000,
+    "feeMax": 590000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹11.68 Lakhs",
+    "eligibility": "Graduation+ Entrance Test",
+    "dates": null,
+    "feeMin": 1168000,
+    "feeMax": 1168000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹8.33 Lakhs",
+    "eligibility": "10+2 +Entrance Test",
+    "dates": null,
+    "feeMin": 833000,
+    "feeMax": 833000
+   },
+   {
+    "course": "BA",
+    "fees": "₹2.3 Lakhs - 5.88 Lakhs",
+    "eligibility": "10+2 +Entrance Test",
+    "dates": null,
+    "feeMin": 229999.99999999997,
+    "feeMax": 588000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹5.08 Lakhs",
+    "eligibility": "Graduation +K PGCET",
+    "dates": null,
+    "feeMin": 508000,
+    "feeMax": 508000
+   },
+   {
+    "course": "Ph.D",
+    "fees": "₹1.88 Lakhs - 3.28 Lakhs",
+    "eligibility": "Post Graduation+NET",
+    "dates": null,
+    "feeMin": 188000,
+    "feeMax": 328000
+   },
+   {
+    "course": "MA",
+    "fees": "₹40,000 - 5.08 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": null,
+    "feeMin": 40000,
+    "feeMax": 508000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Accredited",
+    "value": "NAAC A+"
+   }
+  ],
+  "website": "https://christuniversity.in/",
+  "highlights": [
+   "Regular talks from CEOs and industry experts, live projects and corporate internships embedded within every programme",
+   "International partnerships with universities across the USA, UK and leading European institutions.",
+   "Ranked 509 in QS Asia University Rankings 2027",
+   "THE World University Rankings 2026 Subject Rankings",
+   "World University Rankings for Innovation (WURI) 2026",
+   "Ms.Sarah Lourdes Pais and Ms.Bishalta Pradhan from 6 EMS have bagged \"British Council 70th Anniversary Scholarship\" worth $10,620 to pursue Master's Degree in Data Science at Liverpool Hope University.",
+   "Christ University Wins Excellence in Tech-Enhanced Training and Placement Award at TechEDU India Awards 2025.",
+   "Christ University hosts distinguished guests from academia, industry, and the arts, inspiring students and faculty through insightful interactions and discussions."
+  ],
+  "facts": [
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, NBA, AICTE, NIRF"
+   },
+   {
+    "label": "NIRF rank (as stated)",
+    "value": "#24"
+   },
+   {
+    "label": "Students",
+    "value": "38000+"
+   },
+   {
+    "label": "Programmes",
+    "value": "250+"
+   }
+  ],
+  "gallery": [
+   "assets/photos/christ-university-bangalore/1.jpg",
+   "assets/photos/christ-university-bangalore/2.jpg",
+   "assets/photos/christ-university-bangalore/3.jpg",
+   "assets/photos/christ-university-bangalore/4.jpg"
+  ],
+  "sources": {
+   "website": "https://christuniversity.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India",
+  "feeMin": 40000,
+  "feeMax": 1169000,
+  "deadlines": [
+   {
+    "label": "UG & PG applications (entrance-test programmes)",
+    "date": "2026-11-25",
+    "tentative": false,
+    "note": null,
+    "source": "https://christuniversity.in/admission/"
+   },
+   {
+    "label": "MBA applications (Session I)",
+    "date": "2027-01-24",
+    "tentative": false,
+    "note": null,
+    "source": "https://christuniversity.in/admission/2027-mba-admission-process"
+   }
+  ]
+ },
+ {
+  "slug": "east-point-group",
+  "name": "East Point Group of Institutions",
+  "shortName": "EPGI",
+  "city": "Bangalore",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/east-point-group/1.jpg",
+  "exams": [
+   "NEET",
+   "KCET",
+   "PGCET"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Welcome to East Point Group of Institutions, the largest premier multidisciplinary academic hub situated in the vibrant city of Bangalore, offering a diverse range of programs, including Medical, Engineering, Pharmacy, Nursing, Physiotherapy, Commerce, Management, Computer Application, Allied Sciences, Pre-University and School. Founded in 1997 by the visionary Dr.M.G. Charitable Trust, East Point comprises 14 premier institutions offering a diverse array of more than 66 Plus programs.",
+  "courses": [
+   "BE/B.Tech",
+   "B.P.T",
+   "BOT",
+   "B.Pharm",
+   "MBBS",
+   "BPT",
+   "MBA/PGDM",
+   "BBA/BMS",
+   "MCA",
+   "BCA",
+   "B.Com"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹6.02 Lakhs - 14.27 Lakhs",
+    "eligibility": "10+2 with 45% +JEE",
+    "dates": null,
+    "feeMin": 602000,
+    "feeMax": 1427000
+   },
+   {
+    "course": "MBBS",
+    "fees": "₹6.35 Lakhs",
+    "eligibility": "10+2 with 50% +NEET",
+    "dates": null,
+    "feeMin": 635000,
+    "feeMax": 635000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹5.12 Lakhs",
+    "eligibility": "Graduation with 50%+PGCET",
+    "dates": null,
+    "feeMin": 512000,
+    "feeMax": 512000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹4.02 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": null,
+    "feeMin": 401999.99999999994,
+    "feeMax": 401999.99999999994
+   },
+   {
+    "course": "BCA",
+    "fees": "₹3.42 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 342000,
+    "feeMax": 342000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹2.72 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 272000,
+    "feeMax": 272000
+   },
+   {
+    "course": "B.P.T",
+    "fees": "₹6.22 Lakhs",
+    "eligibility": "10+2 with 40%",
+    "dates": null,
+    "feeMin": 622000,
+    "feeMax": 622000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹3.12 Lakhs - 3.27 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 312000,
+    "feeMax": 327000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Students",
+    "value": "3500+"
+   },
+   {
+    "label": "Highest Package",
+    "value": "18.33 LPA"
+   },
+   {
+    "label": "Courses",
+    "value": "77+"
+   },
+   {
+    "label": "Established",
+    "value": "1998"
+   }
+  ],
+  "highlights": [
+   "Yuva Samvada with Sri Jyotiraditya M Scindia held at EPGI Campus.",
+   "Congratulations to EPCHE’s BNU rankers: 1st place Vundela Nandini & Vineela S (MCA), and 2nd place Allen Marcelinus & Ankitha S!",
+   "The inauguration of the Football & Basketball Court at East Point Jnanaprabha Campus, Bangalore.",
+   "Medical & RGUHS East Point College of Medical Sciences & Research Centre – 150 students/year, state-of-the-art infrastructure",
+   "Engineering (EPCET) VTU affiliated since 1999; UG & PG; IIILP in Salesforce, AWS, UiPath, VMware",
+   "Placements Students placed in Amazon Web Services, Jaro Education, Wistron – dedicated T&P cell",
+   "Higher Education EPCHE – AICTE approved, Bangalore North University; BBA, BCA, B.Com, MBA, M.Com",
+   "Two Campuses Jnana Prabha (Virgo Nagar Post, Avalahalli) & Kalyan Nagar (80 Ft Rd, HRBR Layout)"
+  ],
+  "website": "https://www.eastpoint.ac.in/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1997"
+   },
+   {
+    "label": "Campus size",
+    "value": "100 acres"
+   },
+   {
+    "label": "Students",
+    "value": "10,000"
+   }
+  ],
+  "gallery": [
+   "assets/photos/east-point-group/1.jpg",
+   "assets/photos/east-point-group/2.jpg",
+   "assets/photos/east-point-group/3.jpg"
+  ],
+  "sources": {
+   "website": "https://www.eastpoint.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India",
+  "feeMin": 272000,
+  "feeMax": 1427000
+ },
+ {
+  "slug": "fergusson-college-pune",
+  "name": "Fergusson College Pune",
+  "shortName": "Fergusson College Pune",
+  "city": "Pune",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/fergusson-college-pune/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Join a legacy of excellence and innovation at Deccan Education Society’s Fergusson College. Where tradition meets modernity, and every student is nurtured to achieve their highest potential. Fergusson College Pune - NAAC A+ accredited premier institution offering B.Sc, M.Sc, BA, MA, B.Voc and Diploma programs. Join 140+ years of academic excellence.",
+  "courses": [
+   "B.Sc",
+   "M.Sc",
+   "BA",
+   "MA",
+   "B.Voc",
+   "Diploma Courses"
+  ],
+  "programs": [
+   {
+    "course": "B.Sc",
+    "fees": "₹7,385 - 4.43 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 7385,
+    "feeMax": 443000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹32,348 - 2.6 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 32348,
+    "feeMax": 260000
+   },
+   {
+    "course": "BA",
+    "fees": "₹5,560",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 5560,
+    "feeMax": 5560
+   },
+   {
+    "course": "M.A",
+    "fees": "₹20,500 - 1.54 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 20500,
+    "feeMax": 154000
+   },
+   {
+    "course": "B.Voc",
+    "fees": "₹2.57 Lakhs - 4.14 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 256999.99999999997,
+    "feeMax": 413999.99999999994
+   },
+   {
+    "course": "M.A",
+    "fees": "₹66,000 - 73,000",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 66000,
+    "feeMax": 73000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹1.32 Lakhs - 1.46 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 132000,
+    "feeMax": 146000
+   }
+  ],
+  "website": "https://www.fergusson.edu/",
+  "highlights": [
+   "Fergusson College has been a transformative experience for me. The faculty is incredibly supportive, and the campus life is vibrant and engaging."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1926"
+   },
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, UGC, NIRF"
+   },
+   {
+    "label": "Campus size",
+    "value": "65 acres"
+   },
+   {
+    "label": "NIRF rank (as stated)",
+    "value": "#57"
+   }
+  ],
+  "credits": [
+   {
+    "author": "Sayitaintsojoe",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fergusson_College_Main.jpg"
+   },
+   {
+    "author": "Deepak Patil",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fergusson_College_Circle_in_the_Campus_-_panoramio.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/fergusson-college-pune/1.jpg",
+   "assets/photos/fergusson-college-pune/2.jpg"
+  ],
+  "sources": {
+   "website": "https://www.fergusson.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 5560,
+  "feeMax": 443000
+ },
+ {
+  "slug": "frankfinn",
+  "name": "Frankfinn Institute – Aviation & Hospitality",
+  "shortName": "FIAH",
+  "city": null,
+  "category": "Hospitality",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Explore all Frankfinn courses designed to prepare you for successful careers in aviation, hospitality, and travel. Since 1993, Frankfinn Institute has been the premier destination for aviation, hospitality, and travel training. Join 10,000+ successful graduates!",
+  "courses": [
+   "Aviation, Hospitality & Travel Management (11 months)",
+   "Hospitality, Travel & Customer Service (11 months)",
+   "Hospitality Management (6 months)",
+   "Advance Certificate Aviation & Hospitality (11 months)",
+   "Airport Ground Services (11 months)",
+   "PG Level Aviation & Hospitality (6 months)"
+  ],
+  "highlights": [
+   "Ms. Pragati Surelia, an alumna of Frankfinn Institute Of Airhostess Training shares her journey of studying at the Camac Street Centre, Kolkata and getting placed with Indigo Airlines as a Cabin Crew",
+   "Frankfinn offers courses in the field of Aviation, Hospitality, Travel and Customer Service.",
+   "Most of the airport ratings are usually based on international standards, which include the facilities, runway,...",
+   "Frankfinn has received three awards from Tourism & Hospitality Skill Council (THSC): Training Partner Award for Highest Enrolment Student Paid Program (2023 & 2024)",
+   "Training Partner Award for Highest Training Centre Affiliation (2023 & 2024) and",
+   "Frankfinn is having an outstanding Rating-A from NSDC for FY2022-23.",
+   "Frankfinn Institute of Air Hostess Training received the Award for the 'Best Institute in Placement' at Assocham Education Excellence Summit cum Awards 2022.",
+   "Received 'Training Partner Award', six times in a row (2017-2018), (2018-2019), (2021-2022), (2022-2023), (2023-2024) & (2025-2026) by Tourism and Hospitality Skill Council (THSC)."
+  ],
+  "website": "https://www.frankfinn.com/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1993"
+   },
+   {
+    "label": "Students",
+    "value": "110058"
+   }
+  ],
+  "sources": {
+   "website": "https://www.frankfinn.com/",
+   "updated": "2026-11-04"
+  },
+  "state": "Pan-India",
+  "country": "India"
+ },
+ {
+  "slug": "gibs",
+  "name": "Global Institute of Business Studies (GIBS)",
+  "shortName": "GIBS",
+  "city": "Bangalore",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT",
+   "GMAT",
+   "ATMA"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Applications are now open for the PGDM, MBA, and BBA programs, Batch 2027. Don’t miss this opportunity to enhance your career with our innovative curriculum and global exposure. Secure your spot today! Global Institute of Business Studies (GIBS), Bangalore, is one of India’s leading business schools known for its global outlook, industry integration, and commitment to innovation and entrepreneurship. GIBS has been consistently ranked among the Top PGDM/MBA colleges in Bangalore and is recognised for its holistic learning environment, dynamic curriculum, and emphasis on creating future-ready leaders. With a strong focus on leadership, creativity, and research, GIBS nurtures students to think critically and act ethically in a globalised business world.",
+  "courses": [
+   "PGDM / MBA",
+   "BBA"
+  ],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "₹16.15 LPA"
+   },
+   {
+    "label": "Esteemed Faculties",
+    "value": "60+"
+   },
+   {
+    "label": "Alumni Network",
+    "value": "2000+"
+   }
+  ],
+  "highlights": [
+   "International Conference / Conclave International Conference 2026 - GISMA, Germany",
+   "GIBS students secure prestigious placement opportunities with leading MNCs, Fortune 500 companies, and high-growth startups across diverse industries.",
+   "We take pride in our excellent placement track record since our establishment. Most of the top Corporates have found our students to be ‘industry-ready.",
+   "MindValley Campus - Bannerghatta Road (PGDM & MBA Programs)",
+   "Begur Corporate Campus (BBA, B.Com & BCA - Bangalore University)",
+   "Ranking Ranked among the top business schools in country.",
+   "Alumni Network Strong and supportive alumni community across industries.",
+   "An industry-connected business school where experiential learning, global exposure, innovation and career preparation come together to shape tomorrow’s leaders."
+  ],
+  "website": "https://www.gibs.edu.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NBA, AICTE, UGC, AACSB"
+   },
+   {
+    "label": "Faculty",
+    "value": "20+"
+   }
+  ],
+  "sources": {
+   "website": "https://www.gibs.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "graphic-era-university-geu",
+  "name": "Graphic Era University (GEU) Dehradun",
+  "shortName": "GEUD",
+  "city": "Dehradun",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/graphic-era-university-geu/1.jpg",
+  "exams": [
+   "JEE Main"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Graphic Era has instilled a strong culture of quality organic research, inventions and innovation in its education ecosystem. NAAC A+ accredited premier university offering 86+ programs in Engineering, Management, and more. Ranked #52 in BTech by NIRF 2025. Join India's leading private university in Dehradun.",
+  "courses": [
+   "BE",
+   "Ph.D",
+   "BCA",
+   "MCA",
+   "BBA",
+   "MBA",
+   "B.Sc (Nursing)",
+   "B.Sc {Hons}",
+   "B.Com {Hons}",
+   "MHM",
+   "BA {Hons}"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹9.34 Lakhs - 18.59 Lakhs",
+    "eligibility": "10+2 + JEE Main",
+    "dates": null,
+    "feeMin": 934000,
+    "feeMax": 1859000
+   },
+   {
+    "course": "Ph.D",
+    "fees": "₹2.48 Lakhs - 2.8 Lakhs",
+    "eligibility": "Post Graduation",
+    "dates": null,
+    "feeMin": 248000,
+    "feeMax": 280000
+   },
+   {
+    "course": "BCA",
+    "fees": "₹4.31 Lakhs - 4.84 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 430999.99999999994,
+    "feeMax": 484000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹5.82 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 582000,
+    "feeMax": 582000
+   },
+   {
+    "course": "B.Sc (Nursing)",
+    "fees": "₹10.94 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1094000,
+    "feeMax": 1094000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹3.7 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 370000,
+    "feeMax": 370000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹9.15 Lakhs - 10.76 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 915000,
+    "feeMax": 1076000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹6.44 Lakhs - 6.69 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 644000,
+    "feeMax": 669000
+   },
+   {
+    "course": "MHM",
+    "fees": "₹1.92 Lakhs",
+    "eligibility": "B.H.M.",
+    "dates": null,
+    "feeMin": 192000,
+    "feeMax": 192000
+   },
+   {
+    "course": "B.Sc {Hons}",
+    "fees": "₹4.13 Lakhs - 5.75 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 413000,
+    "feeMax": 575000
+   }
+  ],
+  "website": "https://geu.ac.in/",
+  "highlights": [
+   "B.Com (Hons.) International Finance and Accounting with ACCA",
+   "B.Com (Hons.) in Financial Analytics and Business Intelligence (In knowledge partnership with EY India)",
+   "BBA International Finance and Accounting with ACCA",
+   "BBA with Business Analytics (Industry Partner Grant Thornton)",
+   "BBA with Specialization in Financial Technology (Fin Tech) - (In knowledge partnership with EY India)",
+   "Diploma in Hotel Management- Industry Integrated (DHM- Industry Integrated)",
+   "B.Sc. (Hons.) Clinical Psychology with Research",
+   "Bachelor of Medical Laboratory Technology (BMLT)"
+  ],
+  "facts": [
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, AICTE, UGC, NIRF"
+   }
+  ],
+  "gallery": [
+   "assets/photos/graphic-era-university-geu/1.jpg",
+   "assets/photos/graphic-era-university-geu/2.jpg",
+   "assets/photos/graphic-era-university-geu/3.jpg"
+  ],
+  "sources": {
+   "website": "https://geu.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttarakhand",
+  "country": "India",
+  "feeMin": 192000,
+  "feeMax": 1859000
+ },
+ {
+  "slug": "gsfc-university-vadodara",
+  "name": "GSFC University Vadodara",
+  "shortName": "GSFC University Vadodara",
+  "city": "Vadodara",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/gsfc-university-vadodara/1.jpg",
+  "exams": [
+   "CAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "GSFC University is established under the Gujarat Private Universities Act, 2009 by the GSFC Education Society - an initiative of Gujarat State Fertilizers and Chemicals Ltd, Over six decades old industrial giant, to continue the tradition of serving the community in multiple ways. The vision behind establishing this distinct University is societal development through relevant and cutting edge knowledge in frontier areas of professional growth.",
+  "courses": [
+   "B.Tech",
+   "B.Tech Lateral",
+   "B.Sc",
+   "BCA",
+   "BBA",
+   "B.Com",
+   "MBA/PGDM",
+   "PG Diploma in Industrial Safety",
+   "M.Sc",
+   "M.Tech",
+   "Ph.D"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹4.94 Lakhs",
+    "eligibility": "10+2 + JEE-MAIN",
+    "dates": "Apply Now",
+    "feeMin": 494000.00000000006,
+    "feeMax": 494000.00000000006
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹2.62 Lakhs - 2.8 Lakhs",
+    "eligibility": "10+2 with 45%",
+    "dates": "Apply Now",
+    "feeMin": 262000,
+    "feeMax": 280000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹1.86 Lakhs - 2.14 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": "Apply Now",
+    "feeMin": 186000,
+    "feeMax": 214000
+   },
+   {
+    "course": "BCA",
+    "fees": "₹3.04 Lakhs",
+    "eligibility": "10+2",
+    "dates": "Apply Now",
+    "feeMin": 304000,
+    "feeMax": 304000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹2.86 Lakhs - 3.04 Lakhs",
+    "eligibility": "10+2 with 50%",
+    "dates": "Apply Now",
+    "feeMin": 286000,
+    "feeMax": 304000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹72,000",
+    "eligibility": "Graduation",
+    "dates": "Apply Now",
+    "feeMin": 72000,
+    "feeMax": 72000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹2.46 Lakhs",
+    "eligibility": "Graduation with 50% + CAT",
+    "dates": "Apply Now",
+    "feeMin": 246000,
+    "feeMax": 246000
+   },
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹3.71 Lakhs",
+    "eligibility": "Diploma",
+    "dates": "Apply Now",
+    "feeMin": 371000,
+    "feeMax": 371000
+   },
+   {
+    "course": "Ph.D",
+    "fees": "₹2.41 Lakhs - 2.86 Lakhs",
+    "eligibility": "Post Graduation",
+    "dates": "Apply Now",
+    "feeMin": 241000,
+    "feeMax": 286000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹2.14 Lakhs",
+    "eligibility": "10+2 with 50%",
+    "dates": "Apply Now",
+    "feeMin": 214000,
+    "feeMax": 214000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Students",
+    "value": "3300"
+   }
+  ],
+  "website": "https://www.gsfcuniversity.ac.in/",
+  "highlights": [
+   "Prepare future-ready graduates through holistic development, industry-aligned skills, strong human values, and solution-oriented problem-solving mindset.",
+   "Advance research and innovation in emerging and futuristic domains addressing societal and industry needs."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2010"
+   },
+   {
+    "label": "Students",
+    "value": "3400"
+   },
+   {
+    "label": "Alumni",
+    "value": "3000"
+   },
+   {
+    "label": "Programmes",
+    "value": "21"
+   }
+  ],
+  "gallery": [
+   "assets/photos/gsfc-university-vadodara/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.gsfcuniversity.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India",
+  "feeMin": 72000,
+  "feeMax": 494000.00000000006
+ },
+ {
+  "slug": "ibi",
+  "name": "I Business Institute (IBI)",
+  "shortName": "IBI",
+  "city": "Greater Noida",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/ibi/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Discover IBI's vision of an AI-enabled learning ecosystem where intelligent technology, experiential learning, and human interaction come together to transform the student journey, from admission and classroom learning to industry engagement, placements, and beyond.",
+  "courses": [],
+  "highlights": [
+   "Placement Job Oriented Programs Placement Process",
+   "Infrastructure A Lush Green Campus Incubation Center College Fest Orientation Program High-Class Infrastructure Classroom",
+   "IBI has conducted the placement drive of DBS Bank IBI Campus 25 June 2026",
+   "IBI has conducted Internship Drive of Digitally Next IBI Campus 5 May 2026",
+   "IBI has conducted Internship Drive of Fuel it Online IBI Campus 5 May 2026",
+   "IBI has conducted Internship Drive of HCL IBI Campus 5 May 2026",
+   "IBI has conducted Internship Drive of Impact Offshore IBI Campus 5 May 2026",
+   "17 October 2026 Dandiya Night 2026: Get Ready for an Evening of Festive Celebrations IBI Campus"
+  ],
+  "website": "https://www.ibusinessinstitute.org/",
+  "facts": [
+   {
+    "label": "Recruiters",
+    "value": "500+"
+   }
+  ],
+  "gallery": [
+   "assets/photos/ibi/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.ibusinessinstitute.org/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India"
+ },
+ {
+  "slug": "imsghaz",
+  "name": "Institute of Management Studies Ghaziabad",
+  "shortName": "IMSG",
+  "city": "Ghaziabad",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "IMS Ghaziabad has achieved a landmark of 36 years of excellence and wish to see another glorious leap of perpetual years. We are growing with the substantive pace and we would like to be the most preferred and trustable institution among the nation. We are strengthening our associations with the reputed Organizations and are members of various Institutional Bodies like AIU, NBA, AICTE, CII, PHD-CCI, ASSOCHAM, IATO, AIMA, DMA, GMA, NHRD, NIESBUD, CEGR, EPSI, BGA etc.",
+  "courses": [],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "20 LPA"
+   },
+   {
+    "label": "Alumni Network",
+    "value": "40,000+"
+   }
+  ],
+  "highlights": [
+   "Choose a focused management pathway shaped by academic depth, industry exposure, and career outcomes.",
+   "Over the period of 5 batches, more than 200 recruiters have participated in on-campus & off-campus processes, with 35% of students receiving multiple offers .",
+   "There is an addition of 35+ organisations every year over a plethora of sectors who are invited to our campus for recruitment.",
+   "Received the IIRF Education Impact Award 2025 for Technology Enabled Learning & Research Impact.",
+   "Awarded with the Economic Times Education Excellence Award 2025 for Excellence in Industry-Academia Collaboration.",
+   "Ranked 1 in the State among Top B-Schools (Government & Private) by CSR.",
+   "Ranked 40 in India among Top Private B-Schools by Outlook 2025.",
+   "Ranked 2 in Uttar Pradesh among Private B-Schools by GHRDC."
+  ],
+  "website": "https://www.ims-ghaziabad.ac.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NBA, AICTE"
+   },
+   {
+    "label": "Recruiters",
+    "value": "200"
+   }
+  ],
+  "sources": {
+   "website": "https://www.ims-ghaziabad.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India"
+ },
+ {
+  "slug": "isme",
+  "name": "International School of Management Excellence (ISME)",
+  "shortName": "ISME",
+  "city": "Bangalore",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/isme/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "ISME was founded in 2006 by alumni from CMU, Purdue and Wharton, USA. ISME’s parent organization, NVT Quality Certification an ISO accreditation body that has certified companies for over 30 years across 36 countries. The group also consists of National Public School (NPS), the Best CBSE school in Bangalore with 4 branches - Whitefield, East, Silk Board and Marathahalli.",
+  "courses": [
+   "PGDM",
+   "BBA",
+   "B.Com"
+  ],
+  "highlights": [
+   "Major: Finance/ Data Analytics/ Marketing/ Human Resource Management (Bangalore University, NAAC A++ University)",
+   "Minor: International Business Certification Program from MDIS, Singapore",
+   "Major: Accounting & Taxation/ Finance/ Marketing & Human Capital/ Business & Big Data Analytics (Bangalore University, NAAC A++ University)",
+   "International Business Certification Program from MDIS, Singapore and International Accounting (ACCA, UK)",
+   "Additional Minor: International Business Certification Program from MDIS, Singapore",
+   "Assured Placement & start-to-end Licensing support",
+   "To prepare Senior Management Professionals from Industry for Leadership positions in Higher Education.",
+   "Exposure to managing educational Institutes and accreditation requirements of AICTE, UGC, NAAC, NIRF & NBA."
+  ],
+  "website": "https://www.isme.in/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2006"
+   },
+   {
+    "label": "NAAC grade",
+    "value": "A++"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, NBA, AICTE, UGC, EQUIS, NIRF"
+   },
+   {
+    "label": "Students",
+    "value": "2500"
+   },
+   {
+    "label": "Alumni",
+    "value": "2800+"
+   },
+   {
+    "label": "Faculty",
+    "value": "50+"
+   },
+   {
+    "label": "Recruiters",
+    "value": "260+"
+   }
+  ],
+  "gallery": [
+   "assets/photos/isme/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.isme.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "ishant-law",
+  "name": "Ishan Institute of Law",
+  "shortName": "Ishan Institute of Law",
+  "city": "Greater Noida",
+  "category": "Law",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/ishant-law/1.jpg",
+  "exams": [
+   "CLAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Ishan Institute of Law, Greater Noida, is committed to nurturing future legal professionals through quality legal education, practical exposure, and strong ethical values. The institute provides a progressive academic environment where students gain a deep understanding of law, justice, governance, and society.",
+  "courses": [
+   "LLB",
+   "BA LLB",
+   "LLM"
+  ],
+  "programs": [
+   {
+    "course": "L.L.B",
+    "fees": "₹1.2 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 120000,
+    "feeMax": 120000
+   },
+   {
+    "course": "BA",
+    "fees": "₹2.15 Lakhs",
+    "eligibility": "10+2 with 45%",
+    "dates": null,
+    "feeMin": 215000,
+    "feeMax": 215000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹1 Lakh",
+    "eligibility": "LLB",
+    "dates": null,
+    "feeMin": 100000,
+    "feeMax": 100000
+   }
+  ],
+  "stats": [
+   {
+    "label": "Students from India & abroad",
+    "value": "3500+"
+   },
+   {
+    "label": "Highest package",
+    "value": "18.33 LPA"
+   },
+   {
+    "label": "Accredited university",
+    "value": "NAAC 'A'"
+   }
+  ],
+  "highlights": [
+   "Industry-aligned legal programs designed to build strong foundations, advocacy skills, and career readiness for today’s evolving legal landscape.",
+   "Advance your expertise in specialized legal studies, research, and professional practice.",
+   "Our academically rigorous and industry aligned curriculum prepares students for the evolving world of litigation, corporate law, judiciary, and legal governance.",
+   "The institute provides valuable internship opportunities, expert interactions, legal aid activities, and industry engagement to bridge academic learning with real-world legal practice.",
+   "A comprehensive legal resource center with law journals, bare acts, case commentaries, digital databases, and peaceful reading spaces designed to support deep legal research and academic excellence.",
+   "Modern computer labs with digital legal research support, online case databases, drafting tools, and access to contemporary legal resources for practical legal learning.",
+   "Practical Skills Development incl. legal writing, negotiation, and oral advocacy.",
+   "Internship and Externship Programs with law firms, courts, and legal organizations."
+  ],
+  "website": "https://law.ishan.ac/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC"
+   }
+  ],
+  "gallery": [
+   "assets/photos/ishant-law/1.jpg",
+   "assets/photos/ishant-law/2.jpg",
+   "assets/photos/ishant-law/3.jpg"
+  ],
+  "sources": {
+   "website": "https://law.ishan.ac/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "feeMin": 100000,
+  "feeMax": 215000
+ },
+ {
+  "slug": "itm",
+  "name": "ITM Business School Navi Mumbai",
+  "shortName": "IBSNM",
+  "city": "Navi Mumbai",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/itm/1.jpg",
+  "exams": [
+   "CUET",
+   "CAT",
+   "MAT",
+   "XAT",
+   "CMAT",
+   "ATMA",
+   "NMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Sc and more - 20+ degree programs across six institutes in Mumbai and Navi Mumbai. Pick the degree; the certifications, live industry projects, internship and capstone come with it. ITM Business School, our oldest and flagship institution, and ranked amongst the Top 20 b-schools in India, offers AICTE approved full-time PGDM programs. ITM Universities in Raipur, Chattisgarh and Vadodara, Gujarat are UGC recognized, and offer a range of undergraduate and postgraduate programs in Engineering, Life sciences, Law, Design, Hospitality and Management. The group has 2 renowned Institutes of Hospitality Management and Culinary Arts in Mumbai, ranked among the Top 10 private Hospitality Institutions in India. ITM Institute of Design and Media is a new age…",
+  "courses": [],
+  "highlights": [
+   "BBA - International Hospitality & Tourism Management",
+   "MBA, B.Tech, B.Des, BBA, B.Sc and more - 20+ degree programs across six institutes in Mumbai and Navi Mumbai. Pick the degree; the certifications, live industry projects, internship and capstone come with it.",
+   "Programs, fees, scholarships and eligibility - answered in one call, usually within 24 hours.",
+   "Short, employer-built programs run with partner banks at ITM Skills Academy. Entry is a completed bachelor’s degree; selection follows the partner bank’s own assessment.",
+   "ITM Students start working while they are still studying with us. Programs are designed & delivered in collaboration with industry. They are updated every year to ensure industry relevance.",
+   "Globally recognized professional certifications, awarded by industry bodies and earned inside the degree. On a fresher’s resumes, nothing else stands out quite as much.",
+   "Student festivals, clubs, hackathons, sports leagues, food festivals, cultural nights. The organising, pitching and leading that recruiters ask about usually starts here.",
+   "Qualified counsellors are available on campus whenever a student needs one, confidentially. Asking for support is treated as ordinary, because it is."
+  ],
+  "website": "https://www.itm.edu/",
+  "gallery": [
+   "assets/photos/itm/1.jpg",
+   "assets/photos/itm/2.jpg",
+   "assets/photos/itm/3.jpg",
+   "assets/photos/itm/4.jpg"
+  ],
+  "sources": {
+   "website": "https://www.itm.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ {
+  "slug": "jagsom",
+  "name": "JAGSOM Bangalore",
+  "shortName": "JAGSOM Bangalore",
+  "city": "Bangalore",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/jagsom/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "50+ Expert Faculty Inspirational Teachers JAGSoM prides itself on its inspirational mentors who play a pivotal role in shaping the journey of its learners. These mentors, drawn from diverse backgrounds and industries, bring a wealth of experience and wisdom to the table.",
+  "courses": [],
+  "stats": [
+   {
+    "label": "Highest Package",
+    "value": "20+LPA"
+   },
+   {
+    "label": "Average Package",
+    "value": "10.96%"
+   }
+  ],
+  "highlights": [
+   "Industry Internship Program (IIP) 100% of the batch given immersion to top companies.",
+   "Research Incubation (RI) Foster problem solving skills, innovation, practical skills.",
+   "CXO & Industry Mentorship Learn directly from industry leaders shaping the present & future.",
+   "Industry-updated and bespoke curriculum with leadership focus.",
+   "Industry relevant, multi-faceted for managerial progression.",
+   "One of the world's most influential management thinkers, Jagdish Sheth's work has shaped modern marketing and customer-first strategy across global businesses.",
+   "His philosophy deeply informs our pedagogy. One of the world's most influential management thinkers, Jagdish Sheth's work has shaped modern. marketing and customer-first strategy across global businesses.",
+   "#13 Rank amongst the private business schools of India (#26 overall in India and #2 in Bangalore) in BT – MRDA rankings 2023."
+  ],
+  "website": "https://jagsom.edu.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "AICTE, AACSB"
+   }
+  ],
+  "credits": [
+   {
+    "author": "IFIM Business School",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:IFIM_Campus_in_Bangalore.jpg"
+   },
+   {
+    "author": "Puneet Singh",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:IFIM_Residential_Building.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/jagsom/1.jpg",
+   "assets/photos/jagsom/2.jpg"
+  ],
+  "sources": {
+   "website": "https://jagsom.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "jain-university",
+  "name": "Jain University Bangalore",
+  "shortName": "JUB",
+  "city": "Bangalore",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/jain-university/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Promoted by JAIN Group, the university is recognized among the top universities in India and considered a preferred learner-centric destination for students from different countries across the globe. Known for its emphasis on education, entrepreneurship, research and sports, JAIN (Deemed-to-be University) has some of the best minds in the educational and research fields, and centres that inspire entrepreneurship and innovative thinking.",
+  "courses": [
+   "animation",
+   "digital-film-making",
+   "gaming",
+   "visual-communication",
+   "mca-with-electives",
+   "mca-specialization",
+   "ai-ml",
+   "information-security",
+   "storage-and-cloud-tech",
+   "animation",
+   "data-science",
+   "full-stack-development",
+   "msc-computer-science-it"
+  ],
+  "highlights": [
+   "We're testing a beta version of the new JAIN (Deemed-to-be University) website, designed to make exploring programmes, admissions, and campus life easier.",
+   "CMS Business School accredited by NBA for its MBA programme from 2022-23 upto 2024-25.",
+   "Ranked 5th among Top 10 Private Universities - 2026",
+   "JAIN (Deemed-to-be University) is ranked as follows by NIRF.",
+   "Sixty-two companies had come to meet them, among them Protonical Researchers Hub, KREDL, Biocon Biologics, Dhanvantari Clinical Solutions, Advarra Pvt. Ltd., Insighte Childcare and many more.",
+   "The research centers at JAIN focus on finding solutions to disruptive interdisciplinary/cross disciplinary research problems that will have a significant societal and/or economic impact.",
+   "Our MCA students Mr.Srinivas Sivakumar and Mr.Mohammad Suheb bagged the First Position at the \"Campus Cut\" (Vlogging Competition) at the National Intercollegiate IT Feast.",
+   "Chetas Murali , a B. Tech - CSE (AI) student from the Faculty of Engineering and Technology notches the CTC of 42 LPA at Finkraft during campus placement"
+  ],
+  "website": "https://www.jainuniversity.ac.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, NBA, NIRF"
+   },
+   {
+    "label": "Students",
+    "value": "21,205"
+   },
+   {
+    "label": "Recruiters",
+    "value": "600"
+   }
+  ],
+  "credits": [
+   {
+    "author": "Sainath nuvvula",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jain-University-Bangalore.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/jain-university/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.jainuniversity.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "jdift",
+  "name": "JD Institute Of Fashion Technology",
+  "shortName": "JIOFT",
+  "city": null,
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/jdift.webp",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Des in Fashion Design is an undergraduate program that develops creative, technical, and professional skills in fashion design. Students learn design concepts, textiles, garment construction, fashion illustration, styling, and industry practices to create innovative and market-ready collections.",
+  "courses": [
+   "B.Des",
+   "Master of Design [M.Des] (Fashion)",
+   "MA",
+   "Certificate in Design",
+   "Bachelor of Science [B.Sc] (Interior Design)",
+   "Master of Science [M.Sc] (Interior Design)"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹1.2 Lakhs - 10.04 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 120000,
+    "feeMax": 1003999.9999999999
+   },
+   {
+    "course": "MA",
+    "fees": "₹1.8 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 180000,
+    "feeMax": 180000
+   },
+   {
+    "course": "M.Des",
+    "fees": "₹4.43 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 443000,
+    "feeMax": 443000
+   },
+   {
+    "course": "Certification",
+    "fees": "₹28,230 - 1.8 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 28230,
+    "feeMax": 180000
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹6.76 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 676000,
+    "feeMax": 676000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹4.43 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 443000,
+    "feeMax": 443000
+   },
+   {
+    "course": "MA",
+    "fees": "₹5.4 Lakhs - 6.3 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 540000,
+    "feeMax": 630000
+   },
+   {
+    "course": "UG Program",
+    "fees": "₹5.25 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 525000,
+    "feeMax": 525000
+   },
+   {
+    "course": "MA",
+    "fees": "₹4.18 Lakhs - 6.3 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 418000,
+    "feeMax": 630000
+   }
+  ],
+  "highlights": [
+   "From 1-year diploma courses to full-time degree programmes,every course is built to make you industry-ready from day one.",
+   "Our students don’t just learn theory,they gain hands-on experience through real eventsand industry exposure.",
+   "JD Institute’s international study tours and collaborationsgive you real-world exposure in the world’s top fashioncapitals — Paris, Milan, London, and beyond.",
+   "JD Institute founded in 1988, has established areputation as one of the leading institutions in unleashingthe opportunity for brilliant levels of talent to shine.",
+   "#1 Leader in education, UK Asian Business Awards",
+   "68 Students launched their business in 2021"
+  ],
+  "website": "https://www.jdinstitute.com/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1988"
+   }
+  ],
+  "sources": {
+   "website": "https://www.jdinstitute.com/",
+   "updated": "2026-11-04"
+  },
+  "state": "Pan-India",
+  "country": "India",
+  "feeMin": 28230,
+  "feeMax": 1003999.9999999999
+ },
+ {
+  "slug": "kj-somaiya-institute",
+  "name": "K J Somaiya Institute of Management",
+  "shortName": "KJSIM",
+  "city": "Mumbai",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [
+   "CAT",
+   "XAT",
+   "CMAT",
+   "GMAT",
+   "NMAT",
+   "NET"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "K J Somaiya Institute of Management (KJSIM) in Mumbai stands as a distinguished business school, proudly affiliated with Somaiya Vidyavihar University. Its inception dates to 1981, and over the years, it has risen to the ranks of the top 10 private business schools in India. Furthermore, KJSIM holds the coveted AACSB accreditation and has been recognized as a top 50 Business School across Asia by QS ranking.",
+  "courses": [
+   "MBA/PGDM",
+   "Executive MBA",
+   "MCA",
+   "Ph.D"
+  ],
+  "programs": [
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹20.29 Lakhs - 28.47 Lakhs",
+    "eligibility": "Graduation + CAT/XAT/GMAT",
+    "dates": null,
+    "feeMin": 2029000,
+    "feeMax": 2847000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹13.08 Lakhs",
+    "eligibility": "Graduation + MAH MCA CET",
+    "dates": null,
+    "feeMin": 1308000,
+    "feeMax": 1308000
+   },
+   {
+    "course": "Ph.D",
+    "fees": "₹1.73 Lakhs - 1.82 Lakhs",
+    "eligibility": "Post Graduation + UGC NET",
+    "dates": null,
+    "feeMin": 173000,
+    "feeMax": 182000
+   },
+   {
+    "course": "Executive MBA",
+    "fees": "₹12.38 Lakhs",
+    "eligibility": "Graduation + CAT",
+    "dates": null,
+    "feeMin": 1238000,
+    "feeMax": 1238000
+   }
+  ],
+  "website": "https://kjsim.somaiya.edu/en/",
+  "highlights": [
+   "Academic Fees: Fees for the first year has to be paid at the time of admission. The fees for second year will have to be paid according to the announced schedule.",
+   "Hostel Fees: Hostel fees is to be paid through portal only. (Selected candidates will have to first pay their admission fees to enable the hostel tab on the portal to pay the hostel fees).",
+   "The first-year fee has to be paid at the time of admission; the second-year fee will have to be paid as per the announced schedule."
+  ],
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NBA, AICTE, AACSB, NIRF"
+   },
+   {
+    "label": "Faculty",
+    "value": "28"
+   }
+  ],
+  "sources": {
+   "website": "https://kjsim.somaiya.edu/en/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 173000,
+  "feeMax": 2847000
+ },
+ {
+  "slug": "kcc-institute-of-technology",
+  "name": "KCC Institute of Technology & Management",
+  "shortName": "KITM",
+  "city": "Greater Noida",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/kcc-institute-of-technology/1.jpg",
+  "exams": [
+   "JEE Main",
+   "CAT",
+   "GATE"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "KCC institutes is One of the best BBA, BCA, BJMC, Bcom Hons, BBA LLB, BA LLB, MBA, BTech college in Noida, approved by AICTE. KCCITM lies in list top 10 engineering & Management colleges in Delhi NCR. KCC Institute of Technology & Management (KCC ITM), established in 2009, is a private engineering college in Greater Noida, Uttar Pradesh. The institute is affiliated to",
+  "courses": [
+   "B.Tech",
+   "MBA",
+   "M.Tech"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹4.8 Lakhs",
+    "eligibility": "10+2 + JEE Main",
+    "dates": "Apply Now",
+    "feeMin": 480000,
+    "feeMax": 480000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹2.6 Lakhs",
+    "eligibility": "Graduation + CAT",
+    "dates": "Apply Now",
+    "feeMin": 260000,
+    "feeMax": 260000
+   },
+   {
+    "course": "M.Tech",
+    "fees": "₹1.6 Lakhs",
+    "eligibility": "Graduation + GATE",
+    "dates": "Apply Now",
+    "feeMin": 160000,
+    "feeMax": 160000
+   }
+  ],
+  "highlights": [
+   "• B.Tech admissions through JEE Main followed by UPTAC counselling.",
+   "• PG admissions to M.Tech and MBA Plus as per AKTU norms."
+  ],
+  "website": "https://www.kccitm.edu.in/",
+  "gallery": [
+   "assets/photos/kcc-institute-of-technology/1.jpg",
+   "assets/photos/kcc-institute-of-technology/2.jpg",
+   "assets/photos/kcc-institute-of-technology/3.jpg",
+   "assets/photos/kcc-institute-of-technology/4.jpg"
+  ],
+  "sources": {
+   "website": "https://www.kccitm.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "feeMin": 160000,
+  "feeMax": 480000
+ },
+ {
+  "slug": "lbsim",
+  "name": "LBSIM",
+  "shortName": "LBSIM",
+  "city": "New Delhi",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/lbsim/1.jpg",
+  "exams": [
+   "CAT",
+   "XAT",
+   "GMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Immersion and outbound programmes at LBSIM combine international exposure, rural and social immersion, leadership experiences, and summer internships that extend learning beyond the classroom.",
+  "courses": [],
+  "stats": [
+   {
+    "label": "established in",
+    "value": "1995"
+   }
+  ],
+  "highlights": [
+   "16 Sep Media Coverage AACSB International Delegation Visit in Dainik Savera Times",
+   "14 Sep Press Releases AACSB International Leadership Delegation Visits LBSIM, New Delhi",
+   "15 Jul Media Coverage AACSB Accreditation in The Hindu",
+   "29 Nov Notices New LBSIM Grand Alumni Meet 2026 | Celebrating the Alumni Bond",
+   "30 Oct FDP New FDP on Editor’s Room: Publishing, Peer Review & Research Revision — 30–31 October 2026",
+   "09 Oct FDP FDP on Advanced Qualitative Research and Theory Building — 9–10 October 2026",
+   "25 Jun Notices International Research Conference 2026",
+   "FICCI · CII Central Delhi Apex industry & policy bodies"
+  ],
+  "website": "https://www.lbsim.ac.in/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NBA, AICTE, AACSB, NIRF"
+   },
+   {
+    "label": "NIRF rank (as stated)",
+    "value": "#20"
+   },
+   {
+    "label": "Highest package (as stated)",
+    "value": "₹24.00 LPA"
+   }
+  ],
+  "gallery": [
+   "assets/photos/lbsim/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.lbsim.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Delhi",
+  "country": "India"
+ },
+ {
+  "slug": "maharaja-sayajirao-university",
+  "name": "Maharaja Sayajirao University Of Vadodara",
+  "shortName": "MSUOV",
+  "city": "Vadodara",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/maharaja-sayajirao-university/1.jpg",
+  "exams": [
+   "CMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "The Maharaja Sayajirao's grandson Sir Pratapsinghrao Gaekwad who founded the Maharaja Sayajirao University and settled the trust as desired by his grandfather. This Trust known as Sir Sayajirao Diamond Jubilee and Memorial Trust exists today also and caters to the educationals and other needs of the people of the former state of Baroda.",
+  "courses": [
+   "BE/B.Tech",
+   "B.Sc",
+   "BBA/BMS",
+   "Polytechnic",
+   "LLB",
+   "BCA",
+   "B.Com",
+   "MBA/PGDM",
+   "MCA",
+   "M.Sc"
+  ],
+  "programs": [
+   {
+    "course": "M.Sc",
+    "fees": "₹20,000 - 3.61 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 20000,
+    "feeMax": 361000
+   },
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹37,760",
+    "eligibility": "10+2 + 45% + JEE MAIN",
+    "dates": null,
+    "feeMin": 37760,
+    "feeMax": 37760
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹1.37 Lakhs",
+    "eligibility": "Graduation with 50% + CMAT",
+    "dates": null,
+    "feeMin": 137000,
+    "feeMax": 137000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹82,290",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 82290,
+    "feeMax": 82290
+   },
+   {
+    "course": "Polytechnic",
+    "fees": "₹25,020 - 1.14 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 25020,
+    "feeMax": 113999.99999999999
+   },
+   {
+    "course": "L.L.B",
+    "fees": "₹29,160",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 29160,
+    "feeMax": 29160
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹29,850 - 3.22 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 29850,
+    "feeMax": 322000
+   },
+   {
+    "course": "BCA",
+    "fees": "₹1.91 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 191000,
+    "feeMax": 191000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹42,000",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 42000,
+    "feeMax": 42000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹48,480",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 48480,
+    "feeMax": 48480
+   }
+  ],
+  "stats": [
+   {
+    "label": "Students",
+    "value": "47K+"
+   }
+  ],
+  "website": "https://msubaroda.ac.in/",
+  "highlights": [
+   "Team representing India wins 9medals at 19th International Earth Science Olympiad in Italy",
+   "Baroda is synonymous with education. The patronage of education started with Maharaja Sayajirao and the city has built further on the academic infrastructure established by him."
+  ],
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, AICTE"
+   },
+   {
+    "label": "Campus size",
+    "value": "275 acres"
+   },
+   {
+    "label": "Students",
+    "value": "35000"
+   }
+  ],
+  "gallery": [
+   "assets/photos/maharaja-sayajirao-university/1.jpg",
+   "assets/photos/maharaja-sayajirao-university/2.jpg",
+   "assets/photos/maharaja-sayajirao-university/3.jpg",
+   "assets/photos/maharaja-sayajirao-university/4.jpg"
+  ],
+  "sources": {
+   "website": "https://msubaroda.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India",
+  "feeMin": 20000,
+  "feeMax": 361000
+ },
+ {
+  "slug": "mastersunion",
+  "name": "Masters' Union – Undergraduate Programmes",
+  "shortName": "MUUP",
+  "city": "Gurgaon",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/mastersunion/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "See what students, mentors, alumni and recruiters say about Masters' Union University. Shared highlights and moments that reflect our culture, learning and community. Explore their voices. A 4-year programme for budding marketeers with foundations in behavioural psychology & consumer insight. Learn to understand consumer behavior and create impactful marketing strategies.",
+  "courses": [
+   "UG in Data Science & AI",
+   "UG in Technology and Business Management",
+   "UG in Psychology & Marketing"
+  ],
+  "stats": [
+   {
+    "label": "Highest CTC",
+    "value": "₹61.5 LPA"
+   },
+   {
+    "label": "Average CTC",
+    "value": "₹28.5 LPA"
+   },
+   {
+    "label": "Placement Rate",
+    "value": "100%"
+   }
+  ],
+  "highlights": [
+   "Post Graduate Certificate in AI-First Operator",
+   "Pitch your startup to our internal partner network with investors from Elevation Capital, Accel, InfoEdge Ventures, Peak XV and more.",
+   "Consult Cars24 & 100+ companies , solve real problems, pitch to leadership and have a shot at placements.",
+   "1 in 6 live projects with international firms",
+   "At Masters’ Union University, our faculty are not just teachers; they are industry leaders driving real-world change.",
+   "Across sectors and disciplines, our Masters bring decades of real experience into every session. Because the best way to learn an industry is from the people running it.",
+   "Shark Tank India exclusively partners with Masters’ Union University to spotlight top college and school startups in its Campus Special Episode.",
+   "The Campus Episode has now brought together student founders from across the country, showcasing their ideas on a national platform."
+  ],
+  "website": "https://mastersunion.org/",
+  "facts": [
+   {
+    "label": "Faculty",
+    "value": "30"
+   }
+  ],
+  "gallery": [
+   "assets/photos/mastersunion/1.jpg",
+   "assets/photos/mastersunion/2.jpg",
+   "assets/photos/mastersunion/3.jpg"
+  ],
+  "sources": {
+   "website": "https://mastersunion.org/",
+   "updated": "2026-11-04"
+  },
+  "state": "Haryana",
+  "country": "India"
+ },
+ {
+  "slug": "mdi-gurgaon",
+  "name": "MDI Gurgaon",
+  "shortName": "MDI Gurgaon",
+  "city": "Gurgaon",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/mdi-gurgaon/1.jpg",
+  "exams": [
+   "CAT",
+   "CMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "MDI Gurgaon is home to the leading management education programmes in India. Located in the heart of corporate hub Gurugram, MDI Gurgaon will transform you into a thought leader. Our programmes are about leadership, fresh thinking, and positive impact. Studying at MDI Gurgaon means being in the midst of a talented and collaborative community. It leads to building a lifelong network. We welcome diversity and encourage developing a global mindset.",
+  "courses": [
+   "PGDM",
+   "Executive PGDM",
+   "MDP",
+   "FPM"
+  ],
+  "programs": [
+   {
+    "course": "PGDM",
+    "fees": "₹22 Lakhs - 32.54 Lakhs",
+    "eligibility": "Graduation + CAT",
+    "dates": null,
+    "feeMin": 2200000,
+    "feeMax": 3254000
+   },
+   {
+    "course": "Executive PGDM",
+    "fees": "₹11.5 Lakhs - 18.5 Lakhs",
+    "eligibility": "Graduation with 50% + CAT",
+    "dates": null,
+    "feeMin": 1150000,
+    "feeMax": 1850000
+   },
+   {
+    "course": "FPM",
+    "fees": "₹42,500",
+    "eligibility": "Post Graduation + CAT",
+    "dates": null,
+    "feeMin": 42500,
+    "feeMax": 42500
+   },
+   {
+    "course": "MDP",
+    "fees": "₹42,500",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 42500,
+    "feeMax": 42500
+   }
+  ],
+  "stats": [
+   {
+    "label": "NIRF Ranking 2025",
+    "value": "#11"
+   },
+   {
+    "label": "Established in 1973",
+    "value": "100%"
+   },
+   {
+    "label": "Recruiters",
+    "value": "Fortune 500 companies"
+   },
+   {
+    "label": "Students from India & abroad",
+    "value": "3500+"
+   },
+   {
+    "label": "Highest package",
+    "value": "18.33 LPA"
+   },
+   {
+    "label": "Accredited university",
+    "value": "NAAC 'A'"
+   }
+  ],
+  "website": "https://www.mdi.ac.in/",
+  "highlights": [
+   "Oct 23, 2026 Invitation of sealed quotations for procurement of new laptops for MDI Gurgaon Campus with buy back of old laptops",
+   "Experienced faculty with an emphasis on research based education.",
+   "Faculty & students work in conjunction with industry experts to create high-quality research.",
+   "Global accreditations highlight the quality of teaching and excellence of research at MDI Gurgaon.",
+   "Ranked #9 in NIRF India Rankings in Management category",
+   "Strategic partnerships bring together outstanding academics and resources to deliver transformative impact.",
+   "Alumni across 54 countries, go on to become leaders in finance, consulting, policy framing, and more.",
+   "Access to a wide range of resources in line with MDI's commitment to advance learning, knowledge and research."
+  ],
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "AACSB, EQUIS, AMBA, NIRF"
+   },
+   {
+    "label": "NIRF rank (as stated)",
+    "value": "#9"
+   },
+   {
+    "label": "Alumni",
+    "value": "13,000"
+   }
+  ],
+  "credits": [
+   {
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Group_Discussion_-_Museum_Marketing_-_Management_Development_Programme_-_NCSM_-_Kolkata_2015-02-27_3151.JPG"
+   },
+   {
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Opening_Session_-_Museum_Marketing_-_Management_Development_Programme_-_NCSM_-_Kolkata_2015-02-23_2971.JPG"
+   }
+  ],
+  "gallery": [
+   "assets/photos/mdi-gurgaon/1.jpg",
+   "assets/photos/mdi-gurgaon/2.jpg"
+  ],
+  "sources": {
+   "website": "https://www.mdi.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Haryana",
+  "country": "India",
+  "feeMin": 42500,
+  "feeMax": 3254000
+ },
+ {
+  "slug": "mica",
+  "name": "Mudra Institute of Communication (MICA)",
+  "shortName": "MIC",
+  "city": "Ahmedabad",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/mica/1.jpg",
+  "exams": [
+   "CAT",
+   "XAT",
+   "GMAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "For researchers pursuing questions worth asking - building original scholarship across marketing, communication, and creative business. Established in 1991, MICA is an autonomous, non-profit institution dedicated to creating leadership in Management. MICA offers a wide range of academic programmes, which include the Post Graduate Diploma in Management -Communications (PGDM-C) , Post Graduate Diploma in Management (PGDM) , Post Graduate Certificate Programme in Crafting Creative Communication (CCC) and Fellow Programme in Management (FPM) . This apart, MICA also conducts a host of Online Programmes, Leadership and Management Development Programmes (LMDPs), and Training Programmes and Workshops.",
+  "courses": [],
+  "stats": [
+   {
+    "label": "Highest CTC",
+    "value": "₹40.91 LPA"
+   },
+   {
+    "label": "Average CTC",
+    "value": "₹19.22 LPA"
+   },
+   {
+    "label": "Application Fee:",
+    "value": "February 2026"
+   }
+  ],
+  "highlights": [
+   "For researchers pursuing questions worth asking - building original scholarship across marketing, communication, and creative business.",
+   "Founded in 1991, MICA Ahmedabad is India's only residential institute built specifi cally for strategic marketing and communication - currently ranked NIRF 33.",
+   "MICA shall be the Premier Management School for Marketing, Communication, and Creativity in a design-driven and digitally enabled world.",
+   "To develop empathetic leaders and thinkers who are creative and adaptive problem-solvers for a rapidly changing world.",
+   "Bachelor's degree in any discipline from a recognized university",
+   "Minimum 50% aggregate marks (45% for SC/ST/PwD candidates)",
+   "Appearance in MICAT (MICA Admission Test)",
+   "MICAT I Registration: Open until November 2025"
+  ],
+  "website": "https://www.mica.ac.in/",
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1991"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NIRF"
+   }
+  ],
+  "gallery": [
+   "assets/photos/mica/1.jpg",
+   "assets/photos/mica/2.jpg"
+  ],
+  "sources": {
+   "website": "https://www.mica.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India"
+ },
+ {
+  "slug": "new-horizon",
+  "name": "New Horizon College of Engineering",
+  "shortName": "NHCE",
+  "city": "Bangalore",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/new-horizon/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Under the umbrella of New Horizon Educational institutions, we have 7 high performing institutions that take care of the educational needs of a student from the pre-primary level to the professional stage. New Horizon College of Engineering is an Autonomous college affiliated to Visvesvaraya Technological University (VTU), approved by the All India Council for Technical Education (AICTE) & University Grants Commission (UGC). It is accredited by NAAC with ‘A’ grade & National Board of Accreditation (NBA). New Horizon College of Engineering is located in the heart of the IT capital of India, Bangalore. The college campus is situated in the IT corridor of Bangalore surrounded by MNCs and IT giants such as Intel, Accenture, Capgemini, ARM,",
+  "courses": [
+   "Campus",
+   "New Horizon College of Engineering",
+   "New Horizon College Marathalli",
+   "New Horizon College Kasturi Nagar"
+  ],
+  "stats": [
+   {
+    "label": "Students",
+    "value": "5500+"
+   }
+  ],
+  "highlights": [
+   "As part of New Horizon family, alumni can access a range of opportunities and benefits including lifelong learning, professional support being a part of a community to share and celebrate their achievements.",
+   "To strengthen the theoretical, practical and ethical dimensions of the learning process by fostering a culture of research and innovation among faculty members and students.",
+   "To encourage long-term interaction between the academia and industry through their involvement in the design of curriculum and its hands-on implementation.",
+   "To strengthen and mould students in professional, ethical, social and environmental dimensions by encouraging participation in co-curricular and extracurricular activities.",
+   "Autonomous College Permanently Affiliated to VTU",
+   "NBA Tier 1 Accreditation by Washington Accord",
+   "NIRF 2023 Rank Band 151-200 among Top Private Engineering Colleges across India"
+  ],
+  "website": "https://www.newhorizonindia.edu/",
+  "gallery": [
+   "assets/photos/new-horizon/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.newhorizonindia.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "nift-bangalore",
+  "name": "NIFT Bangalore",
+  "shortName": "NIFT Bangalore",
+  "city": "Bangalore",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-bangalore/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "The National Institute of Fashion Technology (NIFT), Bengaluru, stands as a premier hub of creativity and design innovation. Located in the vibrant, tree-lined neighborhood of HSR Layout, the campus seamlessly blends a rich artistic culture with a bustling academic atmosphere. Its modern infrastructure features state-of-the-art labs, creative studios, and a comprehensive resource centre, all enveloped in a lush, green environment.",
+  "courses": [
+   "B.Des",
+   "Master of Fashion Management [MFM]",
+   "Certification Course in Design",
+   "BA",
+   "MA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.31 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1431000,
+    "feeMax": 1431000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.31 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1431000,
+    "feeMax": 1431000
+   },
+   {
+    "course": "MA",
+    "fees": "₹1.04 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 104000,
+    "feeMax": 104000
+   },
+   {
+    "course": "Certification",
+    "fees": "₹74,340 - 93,810",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 74340,
+    "feeMax": 93810
+   },
+   {
+    "course": "Certification",
+    "fees": "₹1.07 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 107000,
+    "feeMax": 107000
+   }
+  ],
+  "website": "https://nift.ac.in/bengaluru/",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt"
+  ],
+  "gallery": [
+   "assets/photos/nift-bangalore/1.jpg",
+   "assets/photos/nift-bangalore/2.jpg",
+   "assets/photos/nift-bangalore/3.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/bengaluru/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India",
+  "feeMin": 74340,
+  "feeMax": 1431000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-bhopal",
+  "name": "NIFT Bhopal",
+  "shortName": "NIFT Bhopal",
+  "city": "Bhopal",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-bhopal/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "NIFT Bhopal was established in the year 2008. The Centre started functioning from a Transit Campus situated in MP Bhoj (Open) University, Kolar Road, in the heart of Bhopal city. The Centre has shifted to its splendid permanent campus, in March 2022, sprawling over 29 acres of land, resplendent with lush greenery and non-polluting ambience. The Centre is strategically located 20 kms from Bhopal Jn. and 10 kms from Raja Bhoj International Airport, Bhopal.",
+  "courses": [
+   "B.Des",
+   "Master of Fashion Management [MFM]",
+   "BA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   }
+  ],
+  "website": "https://nift.ac.in/bhopal/",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "Resource Centre – Rich repository of books and national and international journals, bound periodicals, audio visual resources with RFID Enabled Library Management System.",
+   "Hostel with a capacity of 480 seats (380 Girls & 100 Boys) within the campus on double occupancy rooms",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "facts": [
+   {
+    "label": "Campus size",
+    "value": "29 acres"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nift-bhopal/1.jpg",
+   "assets/photos/nift-bhopal/2.jpg",
+   "assets/photos/nift-bhopal/3.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/bhopal/",
+   "updated": "2026-11-04"
+  },
+  "state": "Madhya Pradesh",
+  "country": "India",
+  "feeMin": 685000,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-chennai",
+  "name": "NIFT Chennai",
+  "shortName": "NIFT Chennai",
+  "city": "Chennai",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-chennai/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "Chennai Campus NIFT Chennai is a vibrant centre of fashion, design, technology and creative education, bringing together diverse disciplines within an environment of experimentation and collaboration. Located in the cultural heart of South India, the campus connects contemporary design practice with the region’s rich traditions of craft, textiles and artistic expression.",
+  "courses": [
+   "B.Des",
+   "Master of Fashion Management [MFM]",
+   "Certification Course in Design",
+   "BA",
+   "MA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFT",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFT",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFT",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "M.F.Tech",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFT",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "Certification",
+    "fees": "₹17,700 - 94,400",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 17700,
+    "feeMax": 94400
+   }
+  ],
+  "website": "https://nift.ac.in/chennai/",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "gallery": [
+   "assets/photos/nift-chennai/1.jpg",
+   "assets/photos/nift-chennai/2.jpg",
+   "assets/photos/nift-chennai/3.jpg",
+   "assets/photos/nift-chennai/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/chennai/",
+   "updated": "2026-11-04"
+  },
+  "state": "Tamil Nadu",
+  "country": "India",
+  "feeMin": 17700,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-gandhi-nagar",
+  "name": "NIFT Gandhi Nagar",
+  "shortName": "NIFT Gandhi Nagar",
+  "city": "Gandhinagar",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-gandhi-nagar/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "NIFT Gandhinagar has state-of-the-art facilities on campus including 25 classrooms/studios, 24 lab workshops, 3 audio visual rooms and 2 IT conference/VC rooms for primary academic activities. In addition the campus has Resource Centre & Library and Design Studio as additional academic and research facilities.",
+  "courses": [
+   "B.Des",
+   "M.Des",
+   "Master of Fashion Management [MFM]",
+   "BA",
+   "Certification Course in Design"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "M.Des",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "B.Des",
+    "fees": "₹10.38 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1038000.0000000001,
+    "feeMax": 1038000.0000000001
+   },
+   {
+    "course": "M.F.Tech",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   }
+  ],
+  "website": "https://nift.ac.in/gandhinagar",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "The NIFT Gandhinagar Cafeteria “Fuel Station” is considered to be the best amongst all campuses and offers a rich variety of cuisine.",
+   "The Campus Auditorium with a seating capacity of around 350 plays host to major events both for NIFT Gandhinagar as well as other organizations.",
+   "The on-campus Stationery Shop facilitates regular and easy access to a wide portfolio of stationery and related items for our students.",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "gallery": [
+   "assets/photos/nift-gandhi-nagar/1.jpg",
+   "assets/photos/nift-gandhi-nagar/2.jpg",
+   "assets/photos/nift-gandhi-nagar/3.jpg",
+   "assets/photos/nift-gandhi-nagar/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/gandhinagar",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India",
+  "feeMin": 685000,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-hyderabad",
+  "name": "NIFT Hyderabad",
+  "shortName": "NIFT Hyderabad",
+  "city": "Hyderabad",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-hyderabad/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "Established in 1995, NIFT Hyderabad moved to its permanent campus in 1999. Located near the IT Hub and Shilparamam, the campus represents the spirit of “tradition meeting modernity\".16 lakh sq. ft. of built-up area, comprising academic, administrative, and hostel facilities. The campus combines functional architecture with aesthetic design, providing a conducive environment for academic learning, creativity, innovation, and holistic student development.",
+  "courses": [
+   "B.Des",
+   "Master of Fashion Management [MFM]",
+   "BA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.13 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1413000,
+    "feeMax": 1413000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.13 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1413000,
+    "feeMax": 1413000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "B.Des",
+    "fees": "₹10.38 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1038000.0000000001,
+    "feeMax": 1038000.0000000001
+   }
+  ],
+  "website": "https://nift.ac.in/hyderabad",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1995"
+   },
+   {
+    "label": "Campus size",
+    "value": "8.25 acres"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nift-hyderabad/1.jpg",
+   "assets/photos/nift-hyderabad/2.jpg",
+   "assets/photos/nift-hyderabad/3.jpg",
+   "assets/photos/nift-hyderabad/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/hyderabad",
+   "updated": "2026-11-04"
+  },
+  "state": "Telangana",
+  "country": "India",
+  "feeMin": 685000,
+  "feeMax": 1413000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-kolkata",
+  "name": "NIFT Kolkata",
+  "shortName": "NIFT Kolkata",
+  "city": "Kolkata",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-kolkata/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "Founded in 1995, the National Institute of Fashion Technology (NIFT), Kolkata is a leading institution in Eastern India for education in design, technology, and management. As one of the five oldest NIFT campuses, it plays a vital role in fashion education, research, and innovation. Through strong collaboration with the state government and garment industry, NIFT Kolkata fosters creativity and excellence.",
+  "courses": [
+   "B.Des",
+   "Master of Fashion Management [MFM]",
+   "BA",
+   "Certification Course in Design"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "Certification",
+    "fees": "₹35,400",
+    "eligibility": "10",
+    "dates": null,
+    "feeMin": 35400,
+    "feeMax": 35400
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   }
+  ],
+  "website": "https://nift.ac.in/kolkata",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt"
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1995"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nift-kolkata/1.jpg",
+   "assets/photos/nift-kolkata/2.jpg",
+   "assets/photos/nift-kolkata/3.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/kolkata",
+   "updated": "2026-11-04"
+  },
+  "state": "West Bengal",
+  "country": "India",
+  "feeMin": 35400,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-navi-mumbai",
+  "name": "NIFT Navi Mumbai",
+  "shortName": "NIFT Navi Mumbai",
+  "city": "Navi Mumbai",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-navi-mumbai/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "NIFT Mumbai is where creativity meets culture and commerce, a melting pot for India’s fashion lifestyle and entertainment worlds. Nestled in the heart of the Hindi Film Industry, NIFT Mumbai echoes the vibrancy of – “The City of Dreams”. Students at NIFT Mumbai discover endless possibilities to make their dreams a reality through real-life exposure to the entire spectrum of the creative industries like designer labels, fashion brands, retail, entertainment, fintech, new age media etc.",
+  "courses": [
+   "B.Des",
+   "M.Des",
+   "Master of Fashion Management [MFM]",
+   "Certification Course in Design",
+   "BA",
+   "MA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.69 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 669000,
+    "feeMax": 669000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "M.Des",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "Certification",
+    "fees": "₹41,300 - 1.3 Lakhs",
+    "eligibility": null,
+    "dates": null,
+    "feeMin": 41300,
+    "feeMax": 130000
+   },
+   {
+    "course": "MA",
+    "fees": "₹2.05 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 204999.99999999997,
+    "feeMax": 204999.99999999997
+   }
+  ],
+  "website": "https://nift.ac.in/mumbai/",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "Last date to submit appeals to Campus SDAC (for students found ineligible)",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "gallery": [
+   "assets/photos/nift-navi-mumbai/1.jpg",
+   "assets/photos/nift-navi-mumbai/2.jpg",
+   "assets/photos/nift-navi-mumbai/3.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/mumbai/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 41300,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-new-delhi",
+  "name": "NIFT New Delhi",
+  "shortName": "NIFT New Delhi",
+  "city": "New Delhi",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-new-delhi/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "Established in Delhi in 1986, NIFT initially offered a single Fashion Design programme, operating from a provisional two-room facility before relocating to a permanent campus in 1994. Conceived by Dr.V. Doshi, the building draws upon the Indian baoli, employing a central step-well for rainwater conservation, and is recognised among Delhi's iconic modern architecture.",
+  "courses": [
+   "B.Des",
+   "M.Des",
+   "Master of Fashion Management [MFM]",
+   "Ph.D"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "10+2+ NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "M.Des",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Graduation+ NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Graduation+ NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.09 Lakhs",
+    "eligibility": "10+2+ NIFTEE",
+    "dates": null,
+    "feeMin": 1409000,
+    "feeMax": 1409000
+   },
+   {
+    "course": "Ph.D",
+    "fees": "₹6.69 Lakhs",
+    "eligibility": "Post Graduation",
+    "dates": null,
+    "feeMin": 669000,
+    "feeMax": 669000
+   },
+   {
+    "course": "M.F.Tech",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Graduation+ NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   },
+   {
+    "course": "B.Des",
+    "fees": "₹10.38 Lakhs",
+    "eligibility": "Diploma",
+    "dates": null,
+    "feeMin": 1038000.0000000001,
+    "feeMax": 1038000.0000000001
+   }
+  ],
+  "website": "https://nift.ac.in/new-delhi/",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "Notice Inviting Expression of Interest (E.O.I) for providing counselling psychologist services to the students/faculty/officials of NIFT Delhi Campus",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "gallery": [
+   "assets/photos/nift-new-delhi/1.jpg",
+   "assets/photos/nift-new-delhi/2.jpg",
+   "assets/photos/nift-new-delhi/3.jpg",
+   "assets/photos/nift-new-delhi/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/new-delhi/",
+   "updated": "2026-11-04"
+  },
+  "state": "Delhi",
+  "country": "India",
+  "feeMin": 669000,
+  "feeMax": 1409000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nift-patna",
+  "name": "NIFT Patna",
+  "shortName": "NIFT Patna",
+  "city": "Patna",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nift-patna/1.jpg",
+  "exams": [
+   "NIFT"
+  ],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "National Institute of Fashion Technology (NIFT) Patna spans a 6-acre modern campus designed to foster creative and academic excellence. The facility features state-of-the-art infrastructure, including specialized design studios, garment construction labs, a digital resource center, and smart classrooms. Fully Wi-Fi-enabled, the campus offers secure on-campus housing, modern sports facilities, and collaborative spaces.",
+  "courses": [
+   "B.Des",
+   "BA",
+   "Master of Fashion Management [MFM]"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹14.13 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1413000,
+    "feeMax": 1413000
+   },
+   {
+    "course": "BA",
+    "fees": "₹14.13 Lakhs",
+    "eligibility": "Pass in 10+2 + NIFTEE",
+    "dates": null,
+    "feeMin": 1413000,
+    "feeMax": 1413000
+   },
+   {
+    "course": "MFM",
+    "fees": "₹6.85 Lakhs",
+    "eligibility": "Pass in Graduation + NIFTEE",
+    "dates": null,
+    "feeMin": 685000,
+    "feeMax": 685000
+   }
+  ],
+  "website": "https://nift.ac.in/patna",
+  "highlights": [
+   "Campus Virtual Tour arrow_right_alt arrow_right_alt",
+   "For any technical queries or payment failures, students are advised to contact the campus Accounts Department or email the Academic Coordinator immediately with their transaction receipt.",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume"
+  ],
+  "facts": [
+   {
+    "label": "Campus size",
+    "value": "6 acres"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nift-patna/1.jpg",
+   "assets/photos/nift-patna/2.jpg",
+   "assets/photos/nift-patna/3.jpg",
+   "assets/photos/nift-patna/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nift.ac.in/patna",
+   "updated": "2026-11-04"
+  },
+  "state": "Bihar",
+  "country": "India",
+  "feeMin": 685000,
+  "feeMax": 1413000,
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "nirma-university-ahmedabad",
+  "name": "Nirma University Ahmedabad",
+  "shortName": "NUA",
+  "city": "Ahmedabad",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nirma-university-ahmedabad/1.jpg",
+  "exams": [
+   "JEE Main",
+   "CAT",
+   "UCEED",
+   "NATA",
+   "IPMAT",
+   "GATE"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Nirma University, Ahmedabad, is a research-oriented, student-centric, multidisciplinary, not-for-profit state private university. The university received NAAC A+ grade in its third cycle of accreditation. It is also awarded the Centre of Excellence (CoE) status by the Government of Gujarat. The constituent institutes, departments and centres facilitate the all-round development of the students.",
+  "courses": [
+   "B.Tech",
+   "M.Tech",
+   "MCA",
+   "MBA",
+   "BBA+MBA",
+   "B.Arch",
+   "B.Com",
+   "B.Pharm",
+   "M.Pharm",
+   "MA",
+   "M.Sc"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹10.61 Lakhs",
+    "eligibility": "10+2 + JEE Main / GUJCET",
+    "dates": null,
+    "feeMin": 1061000,
+    "feeMax": 1061000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹3.66 Lakhs",
+    "eligibility": "Graduation +GUJCET",
+    "dates": null,
+    "feeMin": 366000,
+    "feeMax": 366000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹26.16 Lakhs",
+    "eligibility": "10+2 with 60% +IPMAT+PI",
+    "dates": null,
+    "feeMin": 2616000,
+    "feeMax": 2616000
+   },
+   {
+    "course": "M.Tech",
+    "fees": "₹5.97 Lakhs",
+    "eligibility": "Graduation + GATE",
+    "dates": null,
+    "feeMin": 597000,
+    "feeMax": 597000
+   },
+   {
+    "course": "B.Arch",
+    "fees": "₹14.39 Lakhs",
+    "eligibility": "10+2 with 45% + NATA",
+    "dates": null,
+    "feeMin": 1439000,
+    "feeMax": 1439000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹10.76 Lakhs - 22.21 Lakhs",
+    "eligibility": "Graduation with 50% + CAT+PI",
+    "dates": null,
+    "feeMin": 1076000,
+    "feeMax": 2221000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹8.84 Lakhs",
+    "eligibility": "10+2 with 60%",
+    "dates": null,
+    "feeMin": 884000,
+    "feeMax": 884000
+   },
+   {
+    "course": "M.Pharm",
+    "fees": "₹8.93 Lakhs",
+    "eligibility": "B.Pharm. + GPAT",
+    "dates": null,
+    "feeMin": 893000,
+    "feeMax": 893000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹10.77 Lakhs",
+    "eligibility": "10+2 + GUJCET",
+    "dates": null,
+    "feeMin": 1077000,
+    "feeMax": 1077000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹4.57 Lakhs",
+    "eligibility": "Graduation with 50%+ Entrance Test",
+    "dates": null,
+    "feeMin": 457000,
+    "feeMax": 457000
+   }
+  ],
+  "website": "https://nirmauni.ac.in/",
+  "highlights": [
+   "The university is a research-oriented, student-centric, multidisciplinary, not-for-profit state private university with a lush-green campus strategically located in the city.",
+   "Dr Karsanbhai K Patel, Chairman, Nirma Limited and founder President of Nirma Education and Research Foundation (NERF) and Nirma University…",
+   "The Nirma University, Ahmedabad is an initiative of Nirma Education and Research Foundation…",
+   "Ahmedabad is one of the biggest exporters of jewellery and gems in India and also the largest among denim suppliers in the country."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1994"
+   },
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC"
+   },
+   {
+    "label": "Campus size",
+    "value": "36 acres"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nirma-university-ahmedabad/1.jpg",
+   "assets/photos/nirma-university-ahmedabad/2.jpg",
+   "assets/photos/nirma-university-ahmedabad/3.jpg",
+   "assets/photos/nirma-university-ahmedabad/4.jpg"
+  ],
+  "sources": {
+   "website": "https://nirmauni.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Gujarat",
+  "country": "India",
+  "feeMin": 366000,
+  "feeMax": 2616000
+ },
+ {
+  "slug": "nmims",
+  "name": "NMIMS",
+  "shortName": "NMIMS",
+  "city": "Mumbai",
+  "category": "Engineering",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nmims/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "NMIMS is the all-encompassing educational platform for diverse fields of career such as Engineering, Science and Technology, Management, Commerce, Architecture, Law, Economics, Pharmacy, Aviation, Design, Performing Arts, Liberal Arts, Hospitality Management, Mathematical Science, Branding and Advertising, Agricultural Sciences and much more.",
+  "courses": [
+   "BBA",
+   "B.Tech",
+   "B.Sc",
+   "B.Pharm",
+   "B.Com",
+   "BA",
+   "BCA",
+   "MBA",
+   "M.Sc",
+   "MCA"
+  ],
+  "website": "https://www.nmims.edu/",
+  "highlights": [
+   "Strong industry interface & corporate relationships with 1348+ companies",
+   "Research-backed updated curriculum, along with 7000+ published papers to its credit",
+   "Pursuing excellence in technological and management research",
+   "SVKM’s NMIMS Shirpur Hosts NMIMS Inter-Campus Sports Championship 2026–27, Bringing Together Eight Campuses",
+   "Promoting faculty scholarship at the global level",
+   "Creating a global learning experience through a diverse mix of students and faculty from international markets",
+   "Developing institutional-level partnerships with top 100 global universities recognised for academic and research excellence",
+   "Strengthening bonds with industry and community or social organisations worldwide"
+  ],
+  "facts": [
+   {
+    "label": "Faculty",
+    "value": "650"
+   },
+   {
+    "label": "Programmes",
+    "value": "17"
+   }
+  ],
+  "credits": [
+   {
+    "author": "NotPixel",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NMIMs_Outside.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nmims/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.nmims.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India"
+ },
+ {
+  "slug": "nsb",
+  "name": "NSB Bangalore",
+  "shortName": "NSB Bangalore",
+  "city": "Bangalore",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/nsb/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "NSB Bangalore stands among India's top B-Schools, recognized for its innovative teaching, free global exposure and future-ready curriculum. With a world-class campus, industry-aligned faculty and 100% placement support, NSB is where careers are launched, ideas are built and leaders are shaped.",
+  "courses": [
+   "PGDM",
+   "BBA"
+  ],
+  "stats": [
+   {
+    "label": "Highest Package(International)",
+    "value": "43.50 LPA"
+   },
+   {
+    "label": "Highest Package(Domestic)",
+    "value": "21 LPA"
+   },
+   {
+    "label": "Average Package(Domestic)",
+    "value": "7.5 LPA"
+   },
+   {
+    "label": "Students Placed",
+    "value": "99.6%"
+   }
+  ],
+  "highlights": [
+   "International Edge International Immersion Program",
+   "Go beyond the campus. Experience an IIM classroom. Explore four countries business ecosystems.",
+   "MBA - Bangalore University, UGC Recognised, NAAC \"A++\" Accredited",
+   "BBA - Bangalore University, UGC Recognised, NAAC \"A++\" Accredited",
+   "Outstanding career opportunities with top-tier companies worldwide",
+   "Experience global education through our semester exchange programs with partner universities worldwide.",
+   "Short-term international programs focusing on cultural and business exposure in global markets.",
+   "Recent stories from around campus, published daily"
+  ],
+  "website": "https://www.nsb.edu.in/",
+  "facts": [
+   {
+    "label": "NAAC grade",
+    "value": "A++"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC, AICTE, UGC"
+   }
+  ],
+  "gallery": [
+   "assets/photos/nsb/1.jpg",
+   "assets/photos/nsb/2.jpg",
+   "assets/photos/nsb/3.jpg",
+   "assets/photos/nsb/4.jpg"
+  ],
+  "sources": {
+   "website": "https://www.nsb.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Karnataka",
+  "country": "India"
+ },
+ {
+  "slug": "op-jindal-global-university",
+  "name": "Op Jindal Global University (JGU)",
+  "shortName": "OJGU",
+  "city": "Sonipat",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [
+   "CUET",
+   "CLAT",
+   "LSAT"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Our institution provides a well-rounded education that goes beyond conventional constraints, equipping students for an ever-changing global landscape with its interdisciplinary course structure. India's premier private university offering world-class interdisciplinary education across law, business, liberal arts, international affairs, and more. Join 3,500+ students from India and abroad.",
+  "courses": [
+   "BA",
+   "LLB",
+   "LLM",
+   "Ph.D. (Law)",
+   "BBA",
+   "B.Com"
+  ],
+  "programs": [
+   {
+    "course": "BA",
+    "fees": "₹35.5 Lakhs",
+    "eligibility": "10+2 with 45% + LNAT UK",
+    "dates": null,
+    "feeMin": 3550000,
+    "feeMax": 3550000
+   },
+   {
+    "course": "L.L.B",
+    "fees": "₹21.5 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 2150000,
+    "feeMax": 2150000
+   },
+   {
+    "course": "L.L.M",
+    "fees": "₹5.5 Lakhs - 10 Lakhs",
+    "eligibility": "Graduation with 45% + CLAT PG",
+    "dates": null,
+    "feeMin": 550000,
+    "feeMax": 1000000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹35.5 Lakhs",
+    "eligibility": "10+2 with 45% + LNAT UK",
+    "dates": null,
+    "feeMin": 3550000,
+    "feeMax": 3550000
+   },
+   {
+    "course": "Ph.D. (Law)",
+    "fees": "₹1.7 Lakhs",
+    "eligibility": "LLM with 55%",
+    "dates": null,
+    "feeMin": 170000,
+    "feeMax": 170000
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹35.5 Lakhs",
+    "eligibility": "10+2 with 45% + LNAT UK",
+    "dates": null,
+    "feeMin": 3550000,
+    "feeMax": 3550000
+   },
+   {
+    "course": "BA",
+    "fees": "₹15.5 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 1550000,
+    "feeMax": 1550000
+   }
+  ],
+  "website": "https://jgu.edu.in/",
+  "highlights": [
+   "Office of International Affairs & Global Initiatives",
+   "The International Mooting Academy for Advocacy, Negotiation, Dispute Adjudication, Arbitration & Resolution (IMAANDAAR)",
+   "RESEARCH & PUBLICATIONS Naveen Jindal Young Fellowship",
+   "International Institute for Higher Education Research & Capacity Building (IIHEd)",
+   "We offer students a range of global exposure and opportunities to study abroad, interact with international students, and take part in cultural exchange programmes fostering a multicultural perspective.",
+   "Collaborations with International Universities",
+   "Professor & Dean, Jindal School of International Affairs (JSIA) & Director General, Jindal India Institute",
+   "The No.1 Private University in India by the QS World University Rankings 2023, for the third year in a row."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "2009"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "UGC"
+   },
+   {
+    "label": "Students",
+    "value": "16,000+"
+   },
+   {
+    "label": "Faculty",
+    "value": "1100+"
+   },
+   {
+    "label": "Programmes",
+    "value": "50+"
+   }
+  ],
+  "sources": {
+   "website": "https://jgu.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Haryana",
+  "country": "India",
+  "feeMin": 170000,
+  "feeMax": 3550000
+ },
+ {
+  "slug": "spjimr",
+  "name": "S.P. Jain Institute of Management and Research (SPJIMR)",
+  "shortName": "SJIMR",
+  "city": "Mumbai",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/spjimr/1.jpg",
+  "exams": [],
+  "fees": null,
+  "deadline": "27 Nov 2026",
+  "about": "For over 45 years, SPJIMR has blazed a distinct trail in management education in India, combining a unique mix of social sensitivity, student centricity, teaching excellence, industry connectivity, practice-oriented thought leadership, and community engagement. Through its programmes, research, and centres of practice, SPJIMR aims to foster wise innovation that creates value-based growth to benefit society. Partner with SPJIMR to shape a better world.",
+  "courses": [
+   "PGDM",
+   "PGDM (Business Management)"
+  ],
+  "highlights": [
+   "Inputs from SPJIMR’s top faculty, industry experts, investors, and entrepreneurs",
+   "Opportunity to earn SPJIMR’s Executive Alumni Status after successful completion of the programme",
+   "Qualify for SYB entrepreneur-alumni membership and attend networking events.",
+   "Opportunity to earn SPJIMR's executive alumni status after successful completion of the programme.",
+   "SPJIMR, a top ten b-School in India, has pioneered the management programme for family-managed businesses (FMBs) for over 25 years.",
+   "SPJIMR is among five founding members of the National Entrepreneurship Network (NEN), which was initiated by the US-based Wadhwani Foundation to promote entrepreneurship in India.",
+   "SPJIMR's faculty is a mix of accomplished academicians with extensive industry exposure and includes teaching entrepreneurs from small and medium enterprises.",
+   "Insights from SPJIMR faculty, industry experts, investors, and entrepreneurs offer real-world perspectives."
+  ],
+  "website": "https://www.spjimr.org/",
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "AICTE, AACSB, EQUIS, AMBA, PRME"
+   }
+  ],
+  "gallery": [
+   "assets/photos/spjimr/1.jpg",
+   "assets/photos/spjimr/2.jpg",
+   "assets/photos/spjimr/3.jpg"
+  ],
+  "sources": {
+   "website": "https://www.spjimr.org/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "deadlines": [
+   {
+    "label": "PGDM / PGDM (BM) 2027-29 last date",
+    "date": "2026-11-27",
+    "tentative": false,
+    "note": null,
+    "source": "https://www.spjimr.org/"
+   }
+  ]
+ },
+ {
+  "slug": "symbiosis-institute-of-business",
+  "name": "SIBM Pune",
+  "shortName": "SIBM Pune",
+  "city": "Pune",
+  "category": "Management",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/symbiosis-institute-of-business/1.jpg",
+  "exams": [
+   "SNAP"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "Symbiosis Institute of Business Management, Pune is Constituent of SYMBIOSIS INTERNATIONAL (DEEMED UNIVERSITY) - SIU. Established in 1978, a premier B School in India, SIBM Pune is consistently ranked among the top 10 B Schools of the country. SIBM Pune is recognized for its excellence in academics and its valuable contributions to industry and society and students. SIBM Pune is a member of EFMD & EFMD Global network.",
+  "courses": [
+   "MBA",
+   "Executive MBA"
+  ],
+  "programs": [
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹23.94 Lakhs - 30.94 Lakhs",
+    "eligibility": "Graduation with 50% + SNAP",
+    "dates": null,
+    "feeMin": 2394000,
+    "feeMax": 3094000
+   }
+  ],
+  "website": "https://www.sibm.edu/",
+  "highlights": [
+   "25th Edition Cost Congress International Conference Silver Anniversary Edition",
+   "Government has declared 2010-20 as 'India's Decade of Innovation' and the industry is increasingly expecting its employees.."
+  ],
+  "facts": [
+   {
+    "label": "Established",
+    "value": "1978"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NIRF"
+   }
+  ],
+  "credits": [
+   {
+    "author": "Craig-vision2020",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_SIBM_Building.jpg"
+   }
+  ],
+  "gallery": [
+   "assets/photos/symbiosis-institute-of-business/1.jpg"
+  ],
+  "sources": {
+   "website": "https://www.sibm.edu/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 2394000,
+  "feeMax": 3094000
+ },
+ {
+  "slug": "symbiosis-institute-of-design",
+  "name": "Symbiosis Institute of Design (SID) Pune",
+  "shortName": "SIDP",
+  "city": "Pune",
+  "category": "Design & Fashion",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "NAAC A++ accredited premier design institute offering BDes and MDes programs. Ranked #12 in Fashion Design. Join India's leading design school in Pune.",
+  "courses": [
+   "B.Des",
+   "MA"
+  ],
+  "programs": [
+   {
+    "course": "B.Des",
+    "fees": "₹22.58 Lakhs",
+    "eligibility": "10+2 with 50% + SEED",
+    "dates": null,
+    "feeMin": 2258000,
+    "feeMax": 2258000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹11.23 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": null,
+    "feeMin": 1123000,
+    "feeMax": 1123000
+   }
+  ],
+  "website": "https://sid.edu.in/",
+  "sources": {
+   "website": "https://sid.edu.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 1123000,
+  "feeMax": 2258000
+ },
+ {
+  "slug": "symbiosis-law-school-sls",
+  "name": "Symbiosis Law School (SLS) Pune",
+  "shortName": "SLSP",
+  "city": "Pune",
+  "category": "Law",
+  "type": "college",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "Welcome to Symbiosis Law School, Pune - a prestigious institution known for academic excellence and producing top-tier versatile legal professionals. Whether you aspire to be a formidable lawyer, a policy maker, or an academician, our comprehensive programmes and distinguished faculty will set you on the path to success.",
+  "courses": [
+   "L.L.B",
+   "L.L.M",
+   "Ph.D. (Law)",
+   "BBA",
+   "BA",
+   "MA",
+   "B.Com"
+  ],
+  "programs": [
+   {
+    "course": "L.L.B",
+    "fees": "₹10.37 Lakhs",
+    "eligibility": "Graduation with 45% + AIAT",
+    "dates": null,
+    "feeMin": 1036999.9999999999,
+    "feeMax": 1036999.9999999999
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹25.5 Lakhs",
+    "eligibility": "10+2 with 45% + SLAT",
+    "dates": null,
+    "feeMin": 2550000,
+    "feeMax": 2550000
+   },
+   {
+    "course": "L.L.M",
+    "fees": "₹5.81 Lakhs",
+    "eligibility": "L.L.B. + AIAT",
+    "dates": null,
+    "feeMin": 581000,
+    "feeMax": 581000
+   },
+   {
+    "course": "BA",
+    "fees": "₹25.5 Lakhs",
+    "eligibility": "10+2 with 45% + SLAT",
+    "dates": null,
+    "feeMin": 2550000,
+    "feeMax": 2550000
+   },
+   {
+    "course": "M.A",
+    "fees": "₹34,000",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 34000,
+    "feeMax": 34000
+   },
+   {
+    "course": "Ph.D. (Law)",
+    "fees": "₹2.2 Lakhs",
+    "eligibility": "Post Graduation",
+    "dates": null,
+    "feeMin": 220000.00000000003,
+    "feeMax": 220000.00000000003
+   },
+   {
+    "course": "B.Com",
+    "fees": "₹25.5 Lakhs",
+    "eligibility": "10+2 with 45% + SLAT",
+    "dates": null,
+    "feeMin": 2550000,
+    "feeMax": 2550000
+   }
+  ],
+  "website": "https://www.symlaw.ac.in/",
+  "highlights": [
+   "SCALSAR Research and Advisory Committee (RAC)"
+  ],
+  "facts": [
+   {
+    "label": "Accreditations / approvals",
+    "value": "NIRF"
+   }
+  ],
+  "sources": {
+   "website": "https://www.symlaw.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Maharashtra",
+  "country": "India",
+  "feeMin": 34000,
+  "feeMax": 2550000
+ },
+ {
+  "slug": "vivekananda-global-university",
+  "name": "Vivekananda Global University",
+  "shortName": "VGU",
+  "city": "Jaipur",
+  "category": "University",
+  "type": "college",
+  "logo": null,
+  "photo": "assets/photos/vivekananda-global-university/1.jpg",
+  "exams": [
+   "JEE Main"
+  ],
+  "fees": null,
+  "deadline": null,
+  "about": "NAAC A+ Accredited & Top Ranked University in Jaipur offering industry-aligned programs, global exposure, advanced research opportunities, and strong career placements. Established in 2012, Vivekananda Global University Jaipur is AICTE, AIU, and UGC approved. Additionally, the institute has been NAAC Grade A+ accredited. The university offers UG, PG, Diploma, and PhD programs in Engineering, Technology, Law, Management, Design, Humanities, Architecture, Hospitality, and Journalism. VGU Jaipur’s flagship program is the 4-year BTech program. BTech CSE is a popular specialisation here. The candidate should have cleared 10+2 with 45%, along with Physics and Maths as mandatory subjects. Selection is based on JEE Main /VGUCET scores. The 1 st Year fees…",
+  "courses": [
+   "BE/B.Tech",
+   "B.P.T",
+   "M.Sc",
+   "B.Sc",
+   "B.Sc",
+   "BBA/BMS",
+   "MBA/PGDM",
+   "B.Pharm",
+   "MCA",
+   "BCA"
+  ],
+  "programs": [
+   {
+    "course": "BE/B.Tech",
+    "fees": "₹6.1 Lakhs - 8.7 Lakhs",
+    "eligibility": "10+2 with VGUCET",
+    "dates": null,
+    "feeMin": 610000,
+    "feeMax": 869999.9999999999
+   },
+   {
+    "course": "B.P.T",
+    "fees": "₹6.1 Lakhs",
+    "eligibility": "10+2 (PCB) with 45%",
+    "dates": null,
+    "feeMin": 610000,
+    "feeMax": 610000
+   },
+   {
+    "course": "M.Sc",
+    "fees": "₹1.25 Lakhs - 2.35 Lakhs",
+    "eligibility": "Graduation",
+    "dates": null,
+    "feeMin": 125000,
+    "feeMax": 235000
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹2.5 Lakhs - 4.7 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 250000,
+    "feeMax": 470000
+   },
+   {
+    "course": "BBA/BMS",
+    "fees": "₹3.08 Lakhs - 6.83 Lakhs",
+    "eligibility": "10+2 with VGUCET",
+    "dates": null,
+    "feeMin": 308000,
+    "feeMax": 683000
+   },
+   {
+    "course": "B.Pharm",
+    "fees": "₹6.1 Lakhs",
+    "eligibility": "10+2 (PCB/PCM)",
+    "dates": null,
+    "feeMin": 610000,
+    "feeMax": 610000
+   },
+   {
+    "course": "MBA/PGDM",
+    "fees": "₹5.05 Lakhs",
+    "eligibility": "Graduation with 50% + VGUCET",
+    "dates": null,
+    "feeMin": 505000,
+    "feeMax": 505000
+   },
+   {
+    "course": "MCA",
+    "fees": "₹2.65 Lakhs",
+    "eligibility": "Graduation with 50%",
+    "dates": null,
+    "feeMin": 265000,
+    "feeMax": 265000
+   },
+   {
+    "course": "BCA",
+    "fees": "₹3.98 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 398000,
+    "feeMax": 398000
+   },
+   {
+    "course": "B.Sc",
+    "fees": "₹1.88 Lakhs - 3.53 Lakhs",
+    "eligibility": "10+2",
+    "dates": null,
+    "feeMin": 188000,
+    "feeMax": 353000
+   }
+  ],
+  "highlights": [
+   "NAAC A+ Accredited & Top Ranked University in Jaipur offering industry-aligned programs, global exposure, advanced research opportunities, and strong career placements.",
+   "Recognized by prestigious global ranking agencies for academic excellence, research innovation, and strong industry connections.",
+   "Stay updated with the latest events, conferences, cultural programs, and important campus happenings at Vivekananda Global University.",
+   "VGU students secure rewarding careers with top companies worldwide, record-breaking salary packages, and strong industry partnerships.",
+   "Stay informed about the latest milestones, rankings, innovations, and student achievements at Vivekananda Global University.",
+   "Through academic flexibility, research intensity and a strong startup ecosystem,VGU is redefining private higher education leadership in Rajasthan.",
+   "Experience unforgettable nights as renowned celebrities light up the VGU campus with electrifying performances and live concerts.",
+   "VGU students consistently outperform with record-breaking packages from India's and the world's leading companies."
+  ],
+  "website": "https://vgu.ac.in/",
+  "facts": [
+   {
+    "label": "NAAC grade",
+    "value": "A+"
+   },
+   {
+    "label": "Accreditations / approvals",
+    "value": "NAAC"
+   },
+   {
+    "label": "Programmes",
+    "value": "200+"
+   }
+  ],
+  "gallery": [
+   "assets/photos/vivekananda-global-university/1.jpg"
+  ],
+  "sources": {
+   "website": "https://vgu.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "state": "Rajasthan",
+  "country": "India",
+  "feeMin": 125000,
+  "feeMax": 869999.9999999999
+ },
+ {
+  "slug": "ailet-2027",
+  "name": "AILET 2027",
+  "shortName": "AILET 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "10 Nov 2026",
+  "about": "NLU Delhi's own entrance test for the 5-year BA LLB (Hons) and the one-year LLM.",
+  "courses": [
+   "BA LLB (Hons)",
+   "LLM"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "NLU Delhi"
+   },
+   {
+    "label": "Exam",
+    "value": "13 Dec 2026, 2 to 4 pm"
+   },
+   {
+    "label": "Fee (as reported)",
+    "value": "Rs 3,000 general, Rs 1,000 SC/ST"
+   },
+   {
+    "label": "Registration opened",
+    "value": "7 Aug 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration closes",
+    "date": "2026-11-10",
+    "tentative": false,
+    "note": "An extension was announced last year, but do not count on one.",
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "bitsat-2027",
+  "name": "BITSAT 2027",
+  "shortName": "BITSAT 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "BITS Pilani's online admission test for its Pilani, Goa and Hyderabad campuses.",
+  "courses": [
+   "B.E.",
+   "B.Pharm"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "BITS Pilani"
+   },
+   {
+    "label": "Status",
+    "value": "Registration expected to open in Dec 2026"
+   },
+   {
+    "label": "Last cycle's Session 1 deadline",
+    "value": "16 Mar 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected from Dec 2026"
+ },
+ {
+  "slug": "ceed-2027",
+  "name": "CEED 2027",
+  "shortName": "CEED 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "10 Nov 2026",
+  "about": "IIT Bombay's Common Entrance Examination for Design, for M.Des and design doctoral programmes.",
+  "courses": [
+   "M.Des",
+   "PhD Design"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "IIT Bombay"
+   },
+   {
+    "label": "Exam",
+    "value": "17 Jan 2027, 9 am to 12 noon"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration with late fee closes",
+    "date": "2026-11-10",
+    "tentative": false,
+    "note": "The regular last date was reported as 5 Nov 2026.",
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "cuet-ug-2027",
+  "name": "CUET UG 2027",
+  "shortName": "CUET UG 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "The common entrance test for undergraduate admission to central and many other universities. The 2027 dates are not announced yet.",
+  "courses": [
+   "BA",
+   "B.Sc",
+   "B.Com",
+   "BBA"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "National Testing Agency (NTA)"
+   },
+   {
+    "label": "Status",
+    "value": "2027 dates not announced"
+   },
+   {
+    "label": "Last cycle's form window",
+    "value": "3 to 30 Jan 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected Jan to Feb 2027"
+ },
+ {
+  "slug": "jee-main-2027",
+  "name": "JEE Main 2027 (Session 1)",
+  "shortName": "JEE Main 2027 (Session 1)",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "22 Nov 2026",
+  "about": "National entrance test for B.Tech, B.E. and B.Arch admissions to NITs, IIITs and other institutes. The Session 1 notification was released on 24 Oct 2026.",
+  "courses": [
+   "B.Tech",
+   "B.E.",
+   "B.Arch"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "National Testing Agency (NTA)"
+   },
+   {
+    "label": "Session 1 exam",
+    "value": "22 to 31 Jan 2027 (as reported)"
+   },
+   {
+    "label": "Registration opened",
+    "value": "24 Oct 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Session 1 registration closes",
+    "date": "2026-11-22",
+    "tentative": false,
+    "note": "Dates as reported after the notification. Confirm on the NTA notice.",
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "nata-2027",
+  "name": "NATA 2027",
+  "shortName": "NATA 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "The National Aptitude Test in Architecture for B.Arch admissions. The 2027 dates are not announced yet.",
+  "courses": [
+   "B.Arch"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "Council of Architecture"
+   },
+   {
+    "label": "Status",
+    "value": "2027 dates not announced"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected Mar to Apr 2027"
+ },
+ {
+  "slug": "neet-mock-test",
+  "name": "NEET Mock Test",
+  "shortName": "NEET Mock Test",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "NEET Mock Test 2026 – Download PDF, Attempt Online Free Chapter‑wise Mock Test",
+  "courses": [],
+  "examInfo": [
+   {
+    "label": "Mode",
+    "value": "Offline (Pen & Paper)"
+   },
+   {
+    "label": "Total Questions",
+    "value": "180"
+   },
+   {
+    "label": "Total Marks",
+    "value": "720"
+   },
+   {
+    "label": "Duration",
+    "value": "180 Minutes"
+   },
+   {
+    "label": "Subjects",
+    "value": "Physics, Chemistry, Biology"
+   },
+   {
+    "label": "Languages",
+    "value": "13 Languages"
+   },
+   {
+    "label": "Correct Answer",
+    "value": "+4 Marks"
+   },
+   {
+    "label": "Incorrect Answer",
+    "value": "-1 Mark"
+   }
+  ],
+  "website": "https://neet.nta.nic.in/",
+  "highlights": [
+   "To conduct efficient, transparent, and international standard tests in order to assess the competency of candidates for admission.",
+   "To undertake research on educational, professional and testing system to identify gaps in the knowledge systems and take steps for bridging them.",
+   "To produce and disseminate information and research on education and professional development standards."
+  ],
+  "sources": {
+   "website": "https://neet.nta.nic.in/",
+   "updated": "2026-11-04"
+  }
+ },
+ {
+  "slug": "neet-ug-2027",
+  "name": "NEET UG 2027",
+  "shortName": "NEET UG 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "The national entrance test for undergraduate medical and dental courses. The 2027 dates are not announced yet.",
+  "courses": [
+   "MBBS",
+   "BDS",
+   "BAMS"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "National Testing Agency (NTA)"
+   },
+   {
+    "label": "Status",
+    "value": "2027 dates not announced"
+   },
+   {
+    "label": "Last cycle's form window",
+    "value": "8 Feb to 11 Mar 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected Feb to Mar 2027"
+ },
+ {
+  "slug": "nid-dat-2027",
+  "name": "NID DAT 2027",
+  "shortName": "NID DAT 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "30 Nov 2026",
+  "about": "National Institute of Design's Design Aptitude Test for B.Des and M.Des admissions.",
+  "courses": [
+   "B.Des",
+   "M.Des"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "National Institute of Design"
+   },
+   {
+    "label": "DAT Prelims",
+    "value": "20 Dec 2026"
+   },
+   {
+    "label": "Correction window",
+    "value": "1 to 3 Dec 2026"
+   },
+   {
+    "label": "Registration opened",
+    "value": "10 Sep 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration closes (11:59 pm)",
+    "date": "2026-11-30",
+    "tentative": false,
+    "note": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "nift-registration",
+  "name": "NIFT Registration",
+  "shortName": "NIFT Registration",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "16 Nov 2026",
+  "about": "Through Craft Cluster Initiatives, graduation projects, research and artisan collaborations, NIFT works with craft communities across India to document, preserve and innovate traditional knowledge systems. NIFT Registration 2026 is the official online application process for candidates seeking admission to various programmes offered by the National Institute of Fashion Technology (NIFT). Completing the registration is mandatory to appear for the NIFT Entrance Examination and to be considered for admission. Candidates who have passed or are appearing in Class 12 for undergraduate programmes",
+  "courses": [
+   "B.Des",
+   "M.Des"
+  ],
+  "highlights": [
+   "India's premier academic institution, training the makers, thinkers and practitioners of tomorrow.",
+   "‘NIFT Journal of Fashion’ invites research articles for its sixth volume",
+   "Through Craft Cluster Initiatives, graduation projects, research and artisan collaborations, NIFT works with craft communities across India to document, preserve and innovate traditional knowledge systems.",
+   "The NIFT alumni network spans generations of designers, entrepreneurs, educators and innovators who continue to shape the future of fashion and design across the world.",
+   "Last Date (Without Late Fee): Early January 2026",
+   "Registration With Late Fee: Mid-January 2026",
+   "Correction Window: Mid-January 2026",
+   "Admit Card Release: Early February 2026"
+  ],
+  "examInfo": [
+   {
+    "label": "Registration Starts",
+    "value": "December 2025"
+   },
+   {
+    "label": "Last Date (Without Late Fee)",
+    "value": "Early January 2026"
+   },
+   {
+    "label": "Registration With Late Fee",
+    "value": "Mid-January 2026"
+   },
+   {
+    "label": "Correction Window",
+    "value": "Mid-January 2026"
+   },
+   {
+    "label": "Admit Card Release",
+    "value": "Early February 2026"
+   }
+  ],
+  "website": "https://www.nift.ac.in/",
+  "sources": {
+   "website": "https://www.nift.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "NIFT 2027 entrance (UG & PG): apply without late fee",
+    "date": "2026-11-16",
+    "tentative": false,
+    "note": "Late fee till 21 Nov 2026. Exam 10 Jan 2027.",
+    "source": "https://exams.nta.nic.in/niftee/"
+   }
+  ]
+ },
+ {
+  "slug": "npat-2027",
+  "name": "NMIMS NPAT 2027",
+  "shortName": "NMIMS NPAT 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "NMIMS's own entrance test for undergraduate programmes. The 2027 dates are not confirmed.",
+  "courses": [
+   "BBA",
+   "B.Com",
+   "B.Sc",
+   "B.Tech"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "NMIMS"
+   },
+   {
+    "label": "Status",
+    "value": "2027 dates not confirmed"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected Feb to May 2027"
+ },
+ {
+  "slug": "snap-2026",
+  "name": "SNAP 2026",
+  "shortName": "SNAP 2026",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "25 Nov 2026",
+  "about": "Symbiosis National Aptitude Test for MBA admission to Symbiosis institutes.",
+  "courses": [
+   "MBA",
+   "PGDM"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "Symbiosis International University"
+   },
+   {
+    "label": "Test dates",
+    "value": "13, 19 and 26 Dec 2026"
+   },
+   {
+    "label": "Registration opened",
+    "value": "21 Aug 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration and fee payment close",
+    "date": "2026-11-25",
+    "tentative": false,
+    "note": null,
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "set-2027",
+  "name": "Symbiosis SET 2027",
+  "shortName": "Symbiosis SET 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": null,
+  "about": "The Symbiosis Entrance Test for undergraduate programmes at Symbiosis institutes. The 2027 dates are not announced yet.",
+  "courses": [
+   "BBA",
+   "BBA LLB",
+   "LLB",
+   "B.Des"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "Symbiosis International University"
+   },
+   {
+    "label": "Status",
+    "value": "2027 dates not announced"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "expected": "Registration expected Dec 2026 to Apr 2027"
+ },
+ {
+  "slug": "uceed-2027",
+  "name": "UCEED 2027",
+  "shortName": "UCEED 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "6 Nov 2026",
+  "about": "IIT Bombay's Undergraduate Common Entrance Exam for Design, for B.Des seats at IITs and partner institutes.",
+  "courses": [
+   "B.Des"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "IIT Bombay"
+   },
+   {
+    "label": "Exam",
+    "value": "17 Jan 2027, 9 am to 12 noon"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration with late fee closes",
+    "date": "2026-11-06",
+    "tentative": false,
+    "note": "The regular deadline was 31 Oct 2026. One report says it was extended to 5 Nov.",
+    "source": null
+   }
+  ]
+ },
+ {
+  "slug": "viteee-registration",
+  "name": "VITEEE Registration",
+  "shortName": "VITEEE Registration",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "31 Mar 2027",
+  "about": "Tech. admission to the VIT Group of Institutions. Admission will be offered only through VITEEE-2027 rank-based counselling process, subject to candidate's VITEEE rank, fulfillment of eligibility criteria, and seat availability.",
+  "courses": [],
+  "highlights": [
+   "NRI applicants can also apply under 'NRI Category' through NRI application form. ( https://vit.ac.in/admissions/international/overview )",
+   "Foreign applicants who studied/studying abroad can apply directly through the International application form ( https://vit.ac.in/admissions/international/overview )",
+   "High School Certificate Examination of the International Baccalaureate Diploma of the International Baccalaureate Office, Geneva. For PCM: Physics & Mathematics - HL, Chemistry - SL / HL",
+   "Selection is based on the rank secured in VITEEE-2027 through Computer Based Test (CBT)",
+   "The fact that a candidate has been qualified and called for the counselling does not guarantee admission to him/ her. This depends upon the candidates rank and the availability of seats.",
+   "You will find the 'Edit Application' option on top of the screen.",
+   "VITEEE 2026 registration has started from 24th October 2025.",
+   "Before proceeding towards registration, candidates must fulfill the complete eligibility criteria."
+  ],
+  "examInfo": [
+   {
+    "label": "The exam is divided into two groups",
+    "value": "MPCEA"
+   },
+   {
+    "label": "The marking scheme is",
+    "value": "+4 marks for each correct answer"
+   },
+   {
+    "label": "Application fee",
+    "value": "Rs. 1350"
+   }
+  ],
+  "website": "https://viteee.vit.ac.in/",
+  "sources": {
+   "website": "https://viteee.vit.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "VITEEE 2027 application last date",
+    "date": "2027-03-31",
+    "tentative": true,
+    "note": "Dates are tentative until VIT confirms.",
+    "source": "https://viteee.vit.ac.in/"
+   }
+  ]
+ },
+ {
+  "slug": "viteee-slot-booking",
+  "name": "VITEEE Slot Booking",
+  "shortName": "VITEEE Slot Booking",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "31 Mar 2027",
+  "about": "Tech. admission to the VIT Group of Institutions. Admission will be offered only through VITEEE-2027 rank-based counselling process, subject to candidate's VITEEE rank, fulfillment of eligibility criteria, and seat availability.",
+  "courses": [
+   "BE/B.Tech",
+   "BA/BBA LLB",
+   "Bachelors in Vocational Courses",
+   "BA",
+   "B.Com",
+   "BBA/BMS",
+   "BCA",
+   "B.Sc",
+   "B.Sc (Medicine)",
+   "B.Sc (Nursing)",
+   "B.Sc (Agriculture)",
+   "B.Pharm",
+   "BHM",
+   "MBA/PGDM",
+   "BFA",
+   "Diploma in Pharmacy",
+   "BS",
+   "MA",
+   "B.Ed"
+  ],
+  "highlights": [
+   "NRI applicants can also apply under 'NRI Category' through NRI application form. ( https://vit.ac.in/admissions/international/overview )",
+   "Foreign applicants who studied/studying abroad can apply directly through the International application form ( https://vit.ac.in/admissions/international/overview )",
+   "High School Certificate Examination of the International Baccalaureate Diploma of the International Baccalaureate Office, Geneva. For PCM: Physics & Mathematics - HL, Chemistry - SL / HL",
+   "Selection is based on the rank secured in VITEEE-2027 through Computer Based Test (CBT)",
+   "The fact that a candidate has been qualified and called for the counselling does not guarantee admission to him/ her. This depends upon the candidates rank and the availability of seats.",
+   "You will find the 'Edit Application' option on top of the screen.",
+   "First-come, first-served : preferred cities/sessions can fill quickly.",
+   "Portal-driven : options shown in your dashboard are the source of truth."
+  ],
+  "website": "https://viteee.vit.ac.in/",
+  "sources": {
+   "website": "https://viteee.vit.ac.in/",
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "VITEEE 2027 application last date",
+    "date": "2027-03-31",
+    "tentative": true,
+    "note": "Dates are tentative until VIT confirms.",
+    "source": "https://viteee.vit.ac.in/"
+   }
+  ]
+ },
+ {
+  "slug": "xat-2027",
+  "name": "XAT 2027",
+  "shortName": "XAT 2027",
+  "city": null,
+  "category": "Exam",
+  "type": "exam",
+  "logo": null,
+  "photo": null,
+  "exams": [],
+  "fees": null,
+  "deadline": "6 Dec 2026",
+  "about": "XLRI's Xavier Aptitude Test, accepted by XLRI and many other management schools.",
+  "courses": [
+   "MBA",
+   "PGDM"
+  ],
+  "examInfo": [
+   {
+    "label": "Conducted by",
+    "value": "XLRI Jamshedpur"
+   },
+   {
+    "label": "Exam",
+    "value": "3 Jan 2027, 2 to 5 pm"
+   },
+   {
+    "label": "Fee (as reported)",
+    "value": "Rs 2,300"
+   },
+   {
+    "label": "Registration opened",
+    "value": "15 Jul 2026"
+   }
+  ],
+  "website": null,
+  "sources": {
+   "website": null,
+   "updated": "2026-11-04"
+  },
+  "deadlines": [
+   {
+    "label": "Registration closes",
+    "date": "2026-12-06",
+    "tentative": false,
+    "note": "Some sites mention a possible extension.",
+    "source": null
+   }
+  ]
+ }
+]

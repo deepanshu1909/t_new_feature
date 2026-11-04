@@ -1,0 +1,11 @@
+{
+ "_readme": "Photos kept after looking at them (numbers = file index in _private/official/photos/<slug>/). Ads, logos, posters, stock portraits and text banners are excluded. Colleges not listed get the illustration instead.",
+ "aidtm": [1], "alliance": [1,3,4], "asian-law-college-alc": [1,2,3], "bits-pilani-dubai": [1,2,3],
+ "christ-university-bangalore": [1,2,3,4], "east-point-group": [1,3,4], "graphic-era-university-geu": [1,3,4],
+ "gsfc-university-vadodara": [2], "ibi": [1], "ishant-law": [1,3,4], "isme": [1], "itm": [1,2,3,4],
+ "kcc-institute-of-technology": [1,2,3,4], "lbsim": [1], "maharaja-sayajirao-university": [1,2,3,4],
+ "mastersunion": [2,3,4], "mica": [1,2], "new-horizon": [1], "nift-bangalore": [1,2,4], "nift-bhopal": [1,2,4],
+ "nift-chennai": [1,2,3,4], "nift-gandhi-nagar": [1,2,3,4], "nift-hyderabad": [1,2,3,4], "nift-kolkata": [1,2,3],
+ "nift-navi-mumbai": [1,2,3], "nift-new-delhi": [1,2,3,4], "nift-patna": [1,2,3,4], "nirma-university-ahmedabad": [1,2,3,4],
+ "nsb": [1,2,3,4], "spjimr": [2,3,4], "vivekananda-global-university": [1]
+}

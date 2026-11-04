@@ -1,0 +1,14 @@
+# STAGING ONLY. Do not upload to production.
+Header set X-Robots-Tag "noindex, nofollow, noarchive"
+
+# Basic auth. Replace the path with the real absolute path of an .htpasswd stored OUTSIDE the web root
+# (e.g. /home/getyourcollege/_private/.htpasswd). Create it on the server with:  htpasswd -c <path> <user>
+AuthType Basic
+AuthName "GetYourCollege staging"
+AuthUserFile /home/getyourcollege/_private/.htpasswd
+Require valid-user
+
+<FilesMatch "^\.ht">
+  Require all denied
+</FilesMatch>
+Options -Indexes

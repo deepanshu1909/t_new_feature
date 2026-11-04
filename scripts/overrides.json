@@ -1,0 +1,22 @@
+{
+  "_readme": "Per-slug manual fixes applied on every build. Keys: name, city, category (University|Engineering|Management|Law|Design & Fashion|Hospitality|Other), featured (bool), hidden (bool), canonical (exact LP folder name), mergeInto (another slug). Slugs are listed in _private/canonical-report.md. Entries below are SAMPLE-only (they match the sample fixture) and should be replaced after the real scan.",
+  "christuniversitybangalore": {
+    "featured": true
+  },
+  "nmims": {
+    "featured": true
+  },
+  "jain-university": {
+    "featured": true
+  },
+  "amityjaipur": {
+    "featured": true
+  },
+  "sampletestinstitute": {
+    "featured": true
+  },
+  "sidpune": {
+    "featured": true,
+    "name": "Symbiosis Institute of Design"
+  }
+}

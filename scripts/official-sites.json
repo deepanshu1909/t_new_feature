@@ -1,0 +1,223 @@
+{
+ "_readme": "slug -> official website + words that must appear on the page (verification). Edit when a site moves.",
+ "aidtm": [
+  "https://aidtm.ac.in/",
+  "Adani"
+ ],
+ "ahmd-uni": [
+  "https://ahduni.edu.in/",
+  "Ahmedabad University"
+ ],
+ "alliance": [
+  "https://www.alliance.edu.in/",
+  "Alliance"
+ ],
+ "amity-noida": [
+  "https://noida.amity.edu/",
+  "Amity"
+ ],
+ "amity-university-dubai": [
+  "https://www.amityuniversity.ae/",
+  "Amity"
+ ],
+ "asian-business-school-abs": [
+  "https://abs.edu.in/",
+  "Asian"
+ ],
+ "asian-law-college-alc": [
+  "https://alc.edu.in/",
+  "Asian"
+ ],
+ "atlas": [
+  "https://www.atlasuniversity.edu.in/",
+  "Atlas"
+ ],
+ "bits-pilani-dubai": [
+  "https://www.bits-pilani.ac.in/dubai",
+  "Dubai"
+ ],
+ "chitkara-university-cu-patiala": [
+  "https://www.chitkara.edu.in/",
+  "Chitkara"
+ ],
+ "christ-university-bangalore": [
+  "https://christuniversity.in/",
+  "Christ"
+ ],
+ "east-point-group": [
+  "https://www.eastpoint.ac.in/",
+  "East Point"
+ ],
+ "fergusson-college-pune": [
+  "https://www.fergusson.edu/",
+  "Fergusson"
+ ],
+ "frankfinn": [
+  "https://www.frankfinn.com/",
+  "Frankfinn"
+ ],
+ "gibs": [
+  "https://www.gibs.edu.in/",
+  "GIBS"
+ ],
+ "graphic-era-university-geu": [
+  "https://geu.ac.in/",
+  "Graphic Era"
+ ],
+ "gsfc-university-vadodara": [
+  "https://www.gsfcuniversity.ac.in/",
+  "GSFC"
+ ],
+ "ibi": [
+  "https://www.ibusinessinstitute.org/",
+  "Business"
+ ],
+ "imsghaz": [
+  "https://www.ims-ghaziabad.ac.in/",
+  "IMS"
+ ],
+ "isme": [
+  "https://www.isme.in/",
+  "ISME"
+ ],
+ "ishant-law": [
+  "https://law.ishan.ac/",
+  "Ishan"
+ ],
+ "itm": [
+  "https://www.itm.edu/",
+  "ITM"
+ ],
+ "jagsom": [
+  "https://jagsom.edu.in/",
+  "JAGSoM"
+ ],
+ "jain-university": [
+  "https://www.jainuniversity.ac.in/",
+  "JAIN"
+ ],
+ "jdift": [
+  "https://www.jdinstitute.com/",
+  "JD"
+ ],
+ "kj-somaiya-institute": [
+  "https://kjsim.somaiya.edu/en/",
+  "Somaiya"
+ ],
+ "kcc-institute-of-technology": [
+  "https://www.kccitm.edu.in/",
+  "KCC"
+ ],
+ "lbsim": [
+  "https://www.lbsim.ac.in/",
+  "Lal Bahadur"
+ ],
+ "maharaja-sayajirao-university": [
+  "https://msubaroda.ac.in/",
+  "Baroda"
+ ],
+ "mastersunion": [
+  "https://mastersunion.org/",
+  "Masters"
+ ],
+ "mdi-gurgaon": [
+  "https://www.mdi.ac.in/",
+  "Management Development"
+ ],
+ "mica": [
+  "https://www.mica.ac.in/",
+  "MICA"
+ ],
+ "new-horizon": [
+  "https://www.newhorizonindia.edu/",
+  "New Horizon"
+ ],
+ "nift-bangalore": [
+  "https://nift.ac.in/bengaluru/",
+  "NIFT"
+ ],
+ "nift-bhopal": [
+  "https://nift.ac.in/bhopal/",
+  "NIFT"
+ ],
+ "nift-chennai": [
+  "https://nift.ac.in/chennai/",
+  "NIFT"
+ ],
+ "nift-gandhi-nagar": [
+  "https://nift.ac.in/gandhinagar",
+  "NIFT"
+ ],
+ "nift-hyderabad": [
+  "https://nift.ac.in/hyderabad",
+  "NIFT"
+ ],
+ "nift-kolkata": [
+  "https://nift.ac.in/kolkata",
+  "NIFT"
+ ],
+ "nift-navi-mumbai": [
+  "https://nift.ac.in/mumbai/",
+  "NIFT"
+ ],
+ "nift-new-delhi": [
+  "https://nift.ac.in/new-delhi/",
+  "NIFT"
+ ],
+ "nift-patna": [
+  "https://nift.ac.in/patna",
+  "NIFT"
+ ],
+ "nirma-university-ahmedabad": [
+  "https://nirmauni.ac.in/",
+  "Nirma"
+ ],
+ "nmims": [
+  "https://www.nmims.edu/",
+  "NMIMS"
+ ],
+ "nsb": [
+  "https://www.nsb.edu.in/",
+  "NSB"
+ ],
+ "op-jindal-global-university": [
+  "https://jgu.edu.in/",
+  "Jindal"
+ ],
+ "spjimr": [
+  "https://www.spjimr.org/",
+  "SPJIMR"
+ ],
+ "symbiosis-institute-of-business": [
+  "https://www.sibm.edu/",
+  "Symbiosis"
+ ],
+ "symbiosis-institute-of-design": [
+  "https://sid.edu.in/",
+  "Design"
+ ],
+ "symbiosis-law-school-sls": [
+  "https://www.symlaw.ac.in/",
+  "Symbiosis"
+ ],
+ "vivekananda-global-university": [
+  "https://vgu.ac.in/",
+  "Vivekananda"
+ ],
+ "neet-mock-test": [
+  "https://neet.nta.nic.in/",
+  "NEET"
+ ],
+ "nift-registration": [
+  "https://www.nift.ac.in/",
+  "NIFT"
+ ],
+ "viteee-registration": [
+  "https://viteee.vit.ac.in/",
+  "VITEEE"
+ ],
+ "viteee-slot-booking": [
+  "https://viteee.vit.ac.in/",
+  "VITEEE"
+ ]
+}
